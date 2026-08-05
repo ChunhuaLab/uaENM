@@ -1,2 +1,65 @@
 # uaENM
 An improved ENM, which incorporates a united-atom protein modeling and an enhanced potential for for high-throughput Characterization of protein dynamic information.
+
+## Table of Contents
+
+- [Requirements](#requirements)
+- [Project Structure](#project-structure)
+- [Full Pipeline](#full-pipeline)
+- [Step 1: Prepare the united atom structure and topology for a protein](#step-1-Prepare-the-united-atom-structure-and-topology-for-a-protein)
+- [Step 2: Run calculation](#step-2-Run-calculation)
+
+---
+
+## Requirements
+
+> The protein model conversion tool provided by the SPICA model (https://www.spica-ff.org) for generating the united atom topology for protein (For example file 3pe9-cg.pdb and 3pe9.top). 
+
+>MATLAB R2020+, Parallel Computing Toolbox.
+
+---
+
+## Project Structure
+
+```
+uaENM/
+├── README.md
+├── codes/
+│   ├── res_type_spica.m         # SPICA Force Field Parameter Repository 
+│   ├── read_top.m               # United-Atom Protein Model Structure Organizer
+│   ├── pdbread_uaENM.m          # United-Atom Protein Model Structure Parser
+│   ├── hessian_2.m              # Two-Body Potential Hessian Matrix Calculator
+│   ├── hessian_3.m              # Three-Body Potential Hessian Matrix Calculator
+│   ├── hessian_4.m              # Four-Body Potential Hessian Matrix Calculator
+│   ├── confirm_twobody_pir.m    # Non-Bonded Two-Body Atomic Pair Determination
+│   ├── calculate_uaENM.m        # uaENM calculation Main Program
+│   └── main.m                   # Parameter Optimization and Result Analysis
+└── example/
+    ├── 3pe9-y.pdb
+    ├── 3pe9-cg.pdb
+    ├── 3pe9.top
+```
+
+## Full Pipeline
+
+### 1. Prepare the united atom structure and topology for a protein.
+
+Note : First, get the conversion tool on https://www.spica-ff.org
+An example of a generated structure:
+```
+cg_spica map2cg 3pe9-y.pdb 3pe9-cg.pdb
+
+```
+
+An example of a generated topology :
+
+```
+
+ cg_spica ENM 3pe9-cg.pdb 3pe9.top -aapdb 3pe9-y.pdb -dssp /usr/bin/dssp -pspica
+
+```
+
+
+### 2. Run calculation
+
+After running the main.m program, the fluctuation of the protein residue, the optimal parameters and the comparison image with the experimental B-factor will be obtained.
