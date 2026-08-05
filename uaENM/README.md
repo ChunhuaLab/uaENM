@@ -28,21 +28,21 @@ Authors: Xinyu Zhang, Zhixiang Wu, Jilong Zhang, Jingjie Su, Long Zhao, Chunhua 
 
 ```
 uaENM/
-©À©¤©¤ README.md
-©À©¤©¤ codes/
-©¦   ©À©¤©¤ res_type_spica.m         # SPICA Force Field Parameter Repository 
-©¦   ©À©¤©¤ read_top.m               # United-Atom Protein Model Structure Organizer
-©¦   ©À©¤©¤ pdbread_uaENM.m          # United-Atom Protein Model Structure Parser
-©¦   ©À©¤©¤ hessian_2.m              # Two-Body Potential Hessian Matrix Calculator
-©¦   ©À©¤©¤ hessian_3.m              # Three-Body Potential Hessian Matrix Calculator
-©¦   ©À©¤©¤ hessian_4.m              # Four-Body Potential Hessian Matrix Calculator
-©¦   ©À©¤©¤ confirm_twobody_pir.m    # Non-Bonded Two-Body Atomic Pair Determination
-©¦   ©À©¤©¤ calculate_uaENM.m        # uaENM calculation Main Program
-©¦   ©¸©¤©¤ main.m                   # Parameter Optimization and Result Analysis
-©¸©¤©¤ example/
-    ©À©¤©¤ 3pe9-y.pdb
-    ©À©¤©¤ 3pe9-cg.pdb
-    ©À©¤©¤ 3pe9.top
+â”œâ”€â”€ README.md
+â”œâ”€â”€ codes/
+â”‚   â”œâ”€â”€ res_type_spica.m         # SPICA Force Field Parameter Repository 
+â”‚   â”œâ”€â”€ read_top.m               # United-Atom Protein Model Structure Organizer
+â”‚   â”œâ”€â”€ pdbread_uaENM.m          # United-Atom Protein Model Structure Parser
+â”‚   â”œâ”€â”€ hessian_2.m              # Two-Body Potential Hessian Matrix Calculator
+â”‚   â”œâ”€â”€ hessian_3.m              # Three-Body Potential Hessian Matrix Calculator
+â”‚   â”œâ”€â”€ hessian_4.m              # Four-Body Potential Hessian Matrix Calculator
+â”‚   â”œâ”€â”€ confirm_twobody_pir.m    # Non-Bonded Two-Body Atomic Pair Determination
+â”‚   â”œâ”€â”€ calculate_uaENM.m        # uaENM calculation Main Program
+â”‚   â””â”€â”€ main.m                   # Parameter Optimization and Result Analysis
+â””â”€â”€ example/
+    â”œâ”€â”€ 3pe9-y.pdb
+    â”œâ”€â”€ 3pe9-cg.pdb
+    â”œâ”€â”€ 3pe9.top
 ```
 
 ## Full Pipeline
