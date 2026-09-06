@@ -1,6 +1,5 @@
 function [hessian3]=hessian_3(angleparam,angle,xyz_cg)
 
-
 % referenced calculation principle: Blondel and Karplus, J. Comput. Chem., Vol. 17, No. 9, 1132-1141 (1996)
 % reference code: Na, H.; Song, G., Phys. Biol. 2023, 20, 46005.
 
