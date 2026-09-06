@@ -1,5 +1,7 @@
 function [hessian2,warn_cg]=hessian_2(R_x,bond,twobody_pir,dist,xyz_cg)
 
+% referenced calculation principle: Tirion, M. M.; Ben-Avraham, D. Phys. Rev. E 2015, 91, 32712.
+
 %% vdW
 n = size(xyz_cg,1);
 eps=twobody_pir(:,3);
