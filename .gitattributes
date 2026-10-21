@@ -1,0 +1,8 @@
+# Store every text file (code, README, dataset) with LF line endings and
+# check it out as LF on all platforms, so a clone is byte-identical everywhere.
+* text=auto eol=lf
+
+# Binary assets
+*.png binary
+*.jpg binary
+*.jpeg binary

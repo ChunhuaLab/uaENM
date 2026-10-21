@@ -32,6 +32,7 @@ uaENM_code/
 |   |-- confirm_twobody_pir.m    # Non-bonded pair selection
 |   |-- calculate_uaENM.m        # Residue fluctuations and B-factor fitting
 |   `-- main.m                   # Run parameter optimization and save results
+|-- dataset/                     # United-atom input files for the 135 proteins
 `-- example/
     |-- 3mp9-y.pdb
     |-- 3mp9-cg.pdb
