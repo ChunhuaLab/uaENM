@@ -1,0 +1,1443 @@
+atom     1   THR  GBTP  GBTP  56.0385     0.5590  P
+atom     2   THR   THR   THR  45.0555     0.0000  P
+atom     3   ASN   GBM   GBM  56.0385     0.0000  P
+atom     4   ASN   ASN   ASN  58.0543     0.0000  P
+atom     5   LYS   GBM   GBM  56.0385     0.0000  P
+atom     6   LYS   LY1   LY1  42.0804     0.0000  P
+atom     7   LYS   LY2   LY2  31.0572     0.5590  P
+atom     8   ALA   ABB   ABB  71.0732     0.0000  P
+atom     9   LEU   GBM   GBM  56.0385     0.0000  P
+atom    10   LEU   LEU   LEU  57.1151     0.0000  P
+atom    11   LEU   GBM   GBM  56.0385     0.0000  P
+atom    12   LEU   LEU   LEU  57.1151     0.0000  P
+atom    13   ALA   ABB   ABB  71.0732     0.0000  P
+atom    14   ILE   GBM   GBM  56.0385     0.0000  P
+atom    15   ILE   ILE   ILE  57.1151     0.0000  P
+atom    16   SER   GBM   GBM  56.0385     0.0000  P
+atom    17   SER   SER   SER  31.0287     0.0000  P
+atom    18   ALA   ABB   ABB  71.0732     0.0000  P
+atom    19   ILE   GBM   GBM  56.0385     0.0000  P
+atom    20   ILE   ILE   ILE  57.1151     0.0000  P
+atom    21   GLN   GBM   GBM  56.0385     0.0000  P
+atom    22   GLN   GLN   GLN  72.0811     0.0000  P
+atom    23   GLN   GBM   GBM  56.0385     0.0000  P
+atom    24   GLN   GLN   GLN  72.0811     0.0000  P
+atom    25   ALA   ABB   ABB  71.0732     0.0000  P
+atom    26   VAL   GBM   GBM  56.0385     0.0000  P
+atom    27   VAL   VAL   VAL  43.0883     0.0000  P
+atom    28   LEU   GBM   GBM  56.0385     0.0000  P
+atom    29   LEU   LEU   LEU  57.1151     0.0000  P
+atom    30   GLU   GBM   GBM  56.0385     0.0000  P
+atom    31   GLU   GLU   GLU  72.0526    -0.5590  P
+atom    32   ALA   ABB   ABB  71.0732     0.0000  P
+atom    33   GLU   GBM   GBM  56.0385     0.0000  P
+atom    34   GLU   GLU   GLU  72.0526    -0.5590  P
+atom    35   THR   GBM   GBM  56.0385     0.0000  P
+atom    36   THR   THR   THR  45.0555     0.0000  P
+atom    37   SER   GBM   GBM  56.0385     0.0000  P
+atom    38   SER   SER   SER  31.0287     0.0000  P
+atom    39   GLU   GBM   GBM  56.0385     0.0000  P
+atom    40   GLU   GLU   GLU  72.0526    -0.5590  P
+atom    41   ARG   GBM   GBM  56.0385     0.0000  P
+atom    42   ARG   AR1   AR1  42.0804     0.0000  P
+atom    43   ARG   AR2   AR2  59.0706     0.5590  P
+atom    44   GLY   GBB   GBB  56.0385     0.0000  P
+atom    45   PHE   GBM   GBM  56.0385     0.0000  P
+atom    46   PHE   PH1   XYR  33.5575     0.0000  P
+atom    47   PHE   PH2   BER  19.5275     0.0000  P
+atom    48   PHE   PH3   BER  19.5275     0.0000  P
+atom    49   PHE   PH4   BER  19.5275     0.0000  P
+atom    50   LEU   GBM   GBM  56.0385     0.0000  P
+atom    51   LEU   LEU   LEU  57.1151     0.0000  P
+atom    52   LEU   GBM   GBM  56.0385     0.0000  P
+atom    53   LEU   LEU   LEU  57.1151     0.0000  P
+atom    54   THR   GBM   GBM  56.0385     0.0000  P
+atom    55   THR   THR   THR  45.0555     0.0000  P
+atom    56   GLY   GBB   GBB  56.0385     0.0000  P
+atom    57   ILE   GBM   GBM  56.0385     0.0000  P
+atom    58   ILE   ILE   ILE  57.1151     0.0000  P
+atom    59   GLU   GBM   GBM  56.0385     0.0000  P
+atom    60   GLU   GLU   GLU  72.0526    -0.5590  P
+atom    61   THR   GBM   GBM  56.0385     0.0000  P
+atom    62   THR   THR   THR  45.0555     0.0000  P
+atom    63   TYR   GBM   GBM  56.0385     0.0000  P
+atom    64   TYR   TY1   XYR  33.5575     0.0000  P
+atom    65   TYR   TY2   BER  19.5275     0.0000  P
+atom    66   TYR   TY3   PHR  35.5275     0.0000  P
+atom    67   TYR   TY4   BER  19.5275     0.0000  P
+atom    68   ARG   GBM   GBM  56.0385     0.0000  P
+atom    69   ARG   AR1   AR1  42.0804     0.0000  P
+atom    70   ARG   AR2   AR2  59.0706     0.5590  P
+atom    71   ASP   GBM   GBM  56.0385     0.0000  P
+atom    72   ASP   ASP   ASP  58.0258    -0.5590  P
+atom    73   SER   GBM   GBM  56.0385     0.0000  P
+atom    74   SER   SER   SER  31.0287     0.0000  P
+atom    75   TYR   GBM   GBM  56.0385     0.0000  P
+atom    76   TYR   TY1   XYR  33.5575     0.0000  P
+atom    77   TYR   TY2   BER  19.5275     0.0000  P
+atom    78   TYR   TY3   PHR  35.5275     0.0000  P
+atom    79   TYR   TY4   BER  19.5275     0.0000  P
+atom    80   ILE   GBM   GBM  56.0385     0.0000  P
+atom    81   ILE   ILE   ILE  57.1151     0.0000  P
+atom    82   ARG   GBM   GBM  56.0385     0.0000  P
+atom    83   ARG   AR1   AR1  42.0804     0.0000  P
+atom    84   ARG   AR2   AR2  59.0706     0.5590  P
+atom    85   ALA   ABB   ABB  71.0732     0.0000  P
+atom    86   ARG   GBM   GBM  56.0385     0.0000  P
+atom    87   ARG   AR1   AR1  42.0804     0.0000  P
+atom    88   ARG   AR2   AR2  59.0706     0.5590  P
+atom    89   ASP   GBM   GBM  56.0385     0.0000  P
+atom    90   ASP   ASP   ASP  58.0258    -0.5590  P
+atom    91   ALA   ABB   ABB  71.0732     0.0000  P
+atom    92   LEU   GBM   GBM  56.0385     0.0000  P
+atom    93   LEU   LEU   LEU  57.1151     0.0000  P
+atom    94   ALA   ABB   ABB  71.0732     0.0000  P
+atom    95   ALA   ABB   ABB  71.0732     0.0000  P
+atom    96   ARG   GBM   GBM  56.0385     0.0000  P
+atom    97   ARG   AR1   AR1  42.0804     0.0000  P
+atom    98   ARG   AR2   AR2  59.0706     0.5590  P
+atom    99   LEU   GBM   GBM  56.0385     0.0000  P
+atom   100   LEU   LEU   LEU  57.1151     0.0000  P
+atom   101   ASP   GBM   GBM  56.0385     0.0000  P
+atom   102   ASP   ASP   ASP  58.0258    -0.5590  P
+atom   103   GLY   GBB   GBB  56.0385     0.0000  P
+atom   104   LEU   GBM   GBM  56.0385     0.0000  P
+atom   105   LEU   LEU   LEU  57.1151     0.0000  P
+atom   106   ARG   GBM   GBM  56.0385     0.0000  P
+atom   107   ARG   AR1   AR1  42.0804     0.0000  P
+atom   108   ARG   AR2   AR2  59.0706     0.5590  P
+atom   109   ALA   ABB   ABB  71.0732     0.0000  P
+atom   110   VAL   GBM   GBM  56.0385     0.0000  P
+atom   111   VAL   VAL   VAL  43.0883     0.0000  P
+atom   112   LEU   GBM   GBM  56.0385     0.0000  P
+atom   113   LEU   LEU   LEU  57.1151     0.0000  P
+atom   114   ALA   ABB   ABB  71.0732     0.0000  P
+atom   115   ASP   GBM   GBM  56.0385     0.0000  P
+atom   116   ASP   ASP   ASP  58.0258    -0.5590  P
+atom   117   ASN   GBM   GBM  56.0385     0.0000  P
+atom   118   ASN   ASN   ASN  58.0543     0.0000  P
+atom   119   PRO   GBM   GBM  56.0385     0.0000  P
+atom   120   PRO   PRO   PRO  42.0804     0.0000  P
+atom   121   GLU   GBM   GBM  56.0385     0.0000  P
+atom   122   GLU   GLU   GLU  72.0526    -0.5590  P
+atom   123   GLN   GBM   GBM  56.0385     0.0000  P
+atom   124   GLN   GLN   GLN  72.0811     0.0000  P
+atom   125   ILE   GBM   GBM  56.0385     0.0000  P
+atom   126   ILE   ILE   ILE  57.1151     0.0000  P
+atom   127   ALA   ABB   ABB  71.0732     0.0000  P
+atom   128   HIS   GBM   GBM  56.0385     0.0000  P
+atom   129   HIS   HI1   HI1  26.0378     0.0000  P
+atom   130   HIS   HI2   HI2  27.0256     0.0000  P
+atom   131   HIS   HI3   HI3  28.0335     0.0000  P
+atom   132   ILE   GBM   GBM  56.0385     0.0000  P
+atom   133   ILE   ILE   ILE  57.1151     0.0000  P
+atom   134   ASP   GBM   GBM  56.0385     0.0000  P
+atom   135   ASP   ASP   ASP  58.0258    -0.5590  P
+atom   136   GLU   GBM   GBM  56.0385     0.0000  P
+atom   137   GLU   GLU   GLU  72.0526    -0.5590  P
+atom   138   LEU   GBM   GBM  56.0385     0.0000  P
+atom   139   LEU   LEU   LEU  57.1151     0.0000  P
+atom   140   ARG   GBM   GBM  56.0385     0.0000  P
+atom   141   ARG   AR1   AR1  42.0804     0.0000  P
+atom   142   ARG   AR2   AR2  59.0706     0.5590  P
+atom   143   LEU   GBM   GBM  56.0385     0.0000  P
+atom   144   LEU   LEU   LEU  57.1151     0.0000  P
+atom   145   LEU   GBM   GBM  56.0385     0.0000  P
+atom   146   LEU   LEU   LEU  57.1151     0.0000  P
+atom   147   THR   GBM   GBM  56.0385     0.0000  P
+atom   148   THR   THR   THR  45.0555     0.0000  P
+atom   149   ASP   GBM   GBM  56.0385     0.0000  P
+atom   150   ASP   ASP   ASP  58.0258    -0.5590  P
+atom   151   MET   GBM   GBM  56.0385     0.0000  P
+atom   152   MET   MET   MET  75.1543     0.0000  P
+atom   153   ARG   GBM   GBM  56.0385     0.0000  P
+atom   154   ARG   AR1   AR1  42.0804     0.0000  P
+atom   155   ARG   AR2   AR2  59.0706     0.5590  P
+atom   156   MET   GBM   GBM  56.0385     0.0000  P
+atom   157   MET   MET   MET  75.1543     0.0000  P
+atom   158   ALA   ABB   ABB  71.0732     0.0000  P
+atom   159   GLN   GBM   GBM  56.0385     0.0000  P
+atom   160   GLN   GLN   GLN  72.0811     0.0000  P
+atom   161   LEU   GBM   GBM  56.0385     0.0000  P
+atom   162   LEU   LEU   LEU  57.1151     0.0000  P
+atom   163   GLY   GBB   GBB  56.0385     0.0000  P
+atom   164   ARG   GBM   GBM  56.0385     0.0000  P
+atom   165   ARG   AR1   AR1  42.0804     0.0000  P
+atom   166   ARG   AR2   AR2  59.0706     0.5590  P
+atom   167   VAL   GBM   GBM  56.0385     0.0000  P
+atom   168   VAL   VAL   VAL  43.0883     0.0000  P
+atom   169   VAL   GBM   GBM  56.0385     0.0000  P
+atom   170   VAL   VAL   VAL  43.0883     0.0000  P
+atom   171   GLU   GBM   GBM  56.0385     0.0000  P
+atom   172   GLU   GLU   GLU  72.0526    -0.5590  P
+atom   173   LEU   GBM   GBM  56.0385     0.0000  P
+atom   174   LEU   LEU   LEU  57.1151     0.0000  P
+atom   175   GLY   GBB   GBB  56.0385     0.0000  P
+atom   176   PRO   GBM   GBM  56.0385     0.0000  P
+atom   177   PRO   PRO   PRO  42.0804     0.0000  P
+atom   178   GLU   GBM   GBM  56.0385     0.0000  P
+atom   179   GLU   GLU   GLU  72.0526    -0.5590  P
+atom   180   ARG   GBM   GBM  56.0385     0.0000  P
+atom   181   ARG   AR1   AR1  42.0804     0.0000  P
+atom   182   ARG   AR2   AR2  59.0706     0.5590  P
+atom   183   MET   GBM   GBM  56.0385     0.0000  P
+atom   184   MET   MET   MET  75.1543     0.0000  P
+atom   185   ARG   GBM   GBM  56.0385     0.0000  P
+atom   186   ARG   AR1   AR1  42.0804     0.0000  P
+atom   187   ARG   AR2   AR2  59.0706     0.5590  P
+atom   188   GLU   GBM   GBM  56.0385     0.0000  P
+atom   189   GLU   GLU   GLU  72.0526    -0.5590  P
+atom   190   ALA   ABB   ABB  71.0732     0.0000  P
+atom   191   LEU   GBM   GBM  56.0385     0.0000  P
+atom   192   LEU   LEU   LEU  57.1151     0.0000  P
+atom   193   ASP   GBM   GBM  56.0385     0.0000  P
+atom   194   ASP   ASP   ASP  58.0258    -0.5590  P
+atom   195   ILE   GBM   GBM  56.0385     0.0000  P
+atom   196   ILE   ILE   ILE  57.1151     0.0000  P
+atom   197   LEU   GBM   GBM  56.0385     0.0000  P
+atom   198   LEU   LEU   LEU  57.1151     0.0000  P
+atom   199   GLU   GBM   GBM  56.0385     0.0000  P
+atom   200   GLU   GLU   GLU  72.0526    -0.5590  P
+atom   201   GLN   GBM   GBM  56.0385     0.0000  P
+atom   202   GLN   GLN   GLN  72.0811     0.0000  P
+atom   203   ALA   ABB   ABB  71.0732     0.0000  P
+atom   204   ARG   GBM   GBM  56.0385     0.0000  P
+atom   205   ARG   AR1   AR1  42.0804     0.0000  P
+atom   206   ARG   AR2   AR2  59.0706     0.5590  P
+atom   207   VAL   GBM   GBM  56.0385     0.0000  P
+atom   208   VAL   VAL   VAL  43.0883     0.0000  P
+atom   209   ASP   GBM   GBM  56.0385     0.0000  P
+atom   210   ASP   ASP   ASP  58.0258    -0.5590  P
+atom   211   ARG   GBM   GBM  56.0385     0.0000  P
+atom   212   ARG   AR1   AR1  42.0804     0.0000  P
+atom   213   ARG   AR2   AR2  59.0706     0.5590  P
+atom   214   LEU   GBM   GBM  56.0385     0.0000  P
+atom   215   LEU   LEU   LEU  57.1151     0.0000  P
+atom   216   THR   GBM   GBM  56.0385     0.0000  P
+atom   217   THR   THR   THR  45.0555     0.0000  P
+atom   218   GLU   GBM   GBM  56.0385     0.0000  P
+atom   219   GLU   GLU   GLU  72.0526    -0.5590  P
+atom   220   ARG   GBM   GBM  56.0385     0.0000  P
+atom   221   ARG   AR1   AR1  42.0804     0.0000  P
+atom   222   ARG   AR2   AR2  59.0706     0.5590  P
+atom   223   ILE   GBM   GBM  56.0385     0.0000  P
+atom   224   ILE   ILE   ILE  57.1151     0.0000  P
+atom   225   GLU   GBM   GBM  56.0385     0.0000  P
+atom   226   GLU   GLU   GLU  72.0526    -0.5590  P
+atom   227   THR   GBM   GBM  56.0385     0.0000  P
+atom   228   THR   THR   THR  45.0555     0.0000  P
+atom   229   SER   GBM   GBM  56.0385     0.0000  P
+atom   230   SER   SER   SER  31.0287     0.0000  P
+atom   231   LEU   GBM   GBM  56.0385     0.0000  P
+atom   232   LEU   LEU   LEU  57.1151     0.0000  P
+atom   233   SER   GBM   GBM  56.0385     0.0000  P
+atom   234   SER   SER   SER  31.0287     0.0000  P
+atom   235   VAL   GBM   GBM  56.0385     0.0000  P
+atom   236   VAL   VAL   VAL  43.0883     0.0000  P
+atom   237   LEU   GBM   GBM  56.0385     0.0000  P
+atom   238   LEU   LEU   LEU  57.1151     0.0000  P
+atom   239   THR   GBM   GBM  56.0385     0.0000  P
+atom   240   THR   THR   THR  45.0555     0.0000  P
+atom   241   ARG   GBM   GBM  56.0385     0.0000  P
+atom   242   ARG   AR1   AR1  42.0804     0.0000  P
+atom   243   ARG   AR2   AR2  59.0706     0.5590  P
+atom   244   ALA   ABB   ABB  71.0732     0.0000  P
+atom   245   GLU   GBM   GBM  56.0385     0.0000  P
+atom   246   GLU   GLU   GLU  72.0526    -0.5590  P
+atom   247   GLN   GBM   GBM  56.0385     0.0000  P
+atom   248   GLN   GLN   GLN  72.0811     0.0000  P
+atom   249   ALA   ABB   ABB  71.0732     0.0000  P
+atom   250   LEU   GBM   GBM  56.0385     0.0000  P
+atom   251   LEU   LEU   LEU  57.1151     0.0000  P
+atom   252   LEU   GBM   GBM  56.0385     0.0000  P
+atom   253   LEU   LEU   LEU  57.1151     0.0000  P
+atom   254   ILE   GBM   GBM  56.0385     0.0000  P
+atom   255   ILE   ILE   ILE  57.1151     0.0000  P
+atom   256   GLN   GBM   GBM  56.0385     0.0000  P
+atom   257   GLN   GLN   GLN  72.0811     0.0000  P
+atom   258   ARG  GBTN  GBTN  56.0385    -0.5590  P
+atom   259   ARG   AR1   AR1  42.0804     0.0000  P
+atom   260   ARG   AR2   AR2  59.0706     0.5590  P
+
+bondparam     1     8   1.195000 4.845467 # GBM-ABB
+bondparam     1     9   1.195000 6.324126 # GBM-GBM
+bondparam     1    11   1.195000 8.765300 # GBM-GBM
+bondparam     1   110   1.195000 8.807594 # GBM-GBM
+bondparam     1   245   1.195000 6.095407 # GBM-GBM
+bondparam     1   247   1.195000 7.637417 # GBM-GBM
+bondparam     1   250   1.195000 7.988610 # GBM-GBM
+bondparam     1   252   1.195000 6.351614 # GBM-GBM
+bondparam     3     9   1.195000 5.236155 # GBM-GBM
+bondparam     3    11   1.195000 6.498060 # GBM-GBM
+bondparam     3    13   1.195000 8.753760 # GBM-ABB
+bondparam     3   245   1.195000 8.417829 # GBM-GBM
+bondparam     3   247   1.195000 8.829809 # GBM-GBM
+bondparam     3   252   1.195000 8.576078 # GBM-GBM
+bondparam     5    11   1.195000 5.387187 # GBM-GBM
+bondparam     5    13   1.195000 6.423731 # GBM-ABB
+bondparam     5    14   1.195000 8.881307 # GBM-GBM
+bondparam     5   110   1.195000 8.274741 # GBM-GBM
+bondparam     8    13   1.195000 5.027075 # ABB-ABB
+bondparam     8    14   1.195000 6.217219 # ABB-GBM
+bondparam     8    16   1.195000 8.768605 # ABB-GBM
+bondparam     8   104   1.195000 6.785752 # ABB-GBM
+bondparam     8   110   1.195000 6.780581 # ABB-GBM
+bondparam     8   112   1.195000 7.975280 # ABB-GBM
+bondparam     8   239   1.195000 8.387618 # ABB-GBM
+bondparam     8   245   1.195000 7.470012 # ABB-GBM
+bondparam     9    14   1.195000 5.000051 # GBM-GBM
+bondparam     9    16   1.195000 6.283526 # GBM-GBM
+bondparam     9    18   1.195000 8.573378 # GBM-ABB
+bondparam     9   237   1.195000 8.535181 # GBM-GBM
+bondparam     9   239   1.195000 6.330975 # GBM-GBM
+bondparam     9   245   1.195000 7.231108 # GBM-GBM
+bondparam     9   247   1.195000 8.356151 # GBM-GBM
+bondparam    11    16   1.195000 5.257103 # GBM-GBM
+bondparam    11    18   1.195000 6.192737 # GBM-ABB
+bondparam    11    19   1.195000 8.752957 # GBM-GBM
+bondparam    13    18   1.195000 5.053453 # ABB-ABB
+bondparam    13    19   1.195000 6.369670 # ABB-GBM
+bondparam    13    21   1.195000 8.961587 # ABB-GBM
+bondparam    13    96   1.195000 6.881337 # ABB-GBM
+bondparam    13    99   1.195000 8.357682 # ABB-GBM
+bondparam    13   103   1.195000 8.162552 # ABB-GBB
+bondparam    13   104   1.195000 6.159682 # ABB-GBM
+bondparam    14    19   1.195000 5.159790 # GBM-GBM
+bondparam    14    21   1.195000 6.593497 # GBM-GBM
+bondparam    14    23   1.195000 8.789167 # GBM-GBM
+bondparam    14    96   1.195000 8.477992 # GBM-GBM
+bondparam    14    99   1.195000 8.644495 # GBM-GBM
+bondparam    14   104   1.195000 7.433662 # GBM-GBM
+bondparam    14   231   1.195000 6.794772 # GBM-GBM
+bondparam    14   233   1.195000 8.924560 # GBM-GBM
+bondparam    14   237   1.195000 7.655797 # GBM-GBM
+bondparam    14   239   1.195000 7.046335 # GBM-GBM
+bondparam    16    21   1.195000 5.153991 # GBM-GBM
+bondparam    16    23   1.195000 6.248149 # GBM-GBM
+bondparam    16    25   1.195000 8.762798 # GBM-ABB
+bondparam    16   231   1.195000 8.244065 # GBM-GBM
+bondparam    16   239   1.195000 8.728712 # GBM-GBM
+bondparam    18    23   1.195000 4.969187 # ABB-GBM
+bondparam    18    25   1.195000 6.250757 # ABB-ABB
+bondparam    18    26   1.195000 8.778079 # ABB-GBM
+bondparam    18    92   1.195000 8.208139 # ABB-GBM
+bondparam    18    96   1.195000 7.394252 # ABB-GBM
+bondparam    19    25   1.195000 5.141414 # GBM-ABB
+bondparam    19    26   1.195000 6.320535 # GBM-GBM
+bondparam    19    28   1.195000 8.731834 # GBM-GBM
+bondparam    19    91   1.195000 8.363551 # GBM-ABB
+bondparam    19    92   1.195000 5.942822 # GBM-GBM
+bondparam    19    94   1.195000 8.918394 # GBM-ABB
+bondparam    19    96   1.195000 6.375186 # GBM-GBM
+bondparam    19    99   1.195000 7.080524 # GBM-GBM
+bondparam    19   104   1.195000 8.972958 # GBM-GBM
+bondparam    19   231   1.195000 8.413043 # GBM-GBM
+bondparam    21    26   1.195000 5.306828 # GBM-GBM
+bondparam    21    28   1.195000 6.394248 # GBM-GBM
+bondparam    21    30   1.195000 8.636514 # GBM-GBM
+bondparam    21    92   1.195000 8.673296 # GBM-GBM
+bondparam    21   223   1.195000 8.344490 # GBM-GBM
+bondparam    21   225   1.195000 7.457671 # GBM-GBM
+bondparam    21   231   1.195000 7.377696 # GBM-GBM
+bondparam    23    28   1.195000 5.278282 # GBM-GBM
+bondparam    23    30   1.195000 6.067869 # GBM-GBM
+bondparam    23    32   1.195000 8.685544 # GBM-ABB
+bondparam    23    85   1.195000 8.584361 # GBM-ABB
+bondparam    23    92   1.195000 8.670244 # GBM-GBM
+bondparam    25    30   1.195000 4.905759 # ABB-GBM
+bondparam    25    32   1.195000 6.110979 # ABB-ABB
+bondparam    25    33   1.195000 8.638327 # ABB-GBM
+bondparam    25    82   1.195000 8.719487 # ABB-GBM
+bondparam    25    85   1.195000 5.074637 # ABB-ABB
+bondparam    25    86   1.195000 7.038871 # ABB-GBM
+bondparam    25    89   1.195000 8.905726 # ABB-GBM
+bondparam    25    91   1.195000 6.626512 # ABB-ABB
+bondparam    25    92   1.195000 5.446497 # ABB-GBM
+bondparam    25    96   1.195000 8.690110 # ABB-GBM
+bondparam    26    32   1.195000 5.225601 # GBM-ABB
+bondparam    26    33   1.195000 6.399455 # GBM-GBM
+bondparam    26    35   1.195000 8.718700 # GBM-GBM
+bondparam    26    85   1.195000 7.000939 # GBM-ABB
+bondparam    26    86   1.195000 7.476192 # GBM-GBM
+bondparam    26    92   1.195000 6.809976 # GBM-GBM
+bondparam    26   147   1.195000 7.784752 # GBM-GBM
+bondparam    26   153   1.195000 8.718055 # GBM-GBM
+bondparam    26   156   1.195000 8.334713 # GBM-GBM
+bondparam    26   216   1.195000 8.706743 # GBM-GBM
+bondparam    28    33   1.195000 5.143151 # GBM-GBM
+bondparam    28    35   1.195000 6.008397 # GBM-GBM
+bondparam    28    37   1.195000 8.336682 # GBM-GBM
+bondparam    28    85   1.195000 8.459252 # GBM-ABB
+bondparam    28   216   1.195000 8.976157 # GBM-GBM
+bondparam    30    35   1.195000 5.187618 # GBM-GBM
+bondparam    30    37   1.195000 5.841877 # GBM-GBM
+bondparam    30    39   1.195000 8.404173 # GBM-GBM
+bondparam    30    73   1.195000 7.557061 # GBM-GBM
+bondparam    30    75   1.195000 6.876615 # GBM-GBM
+bondparam    30    82   1.195000 8.861801 # GBM-GBM
+bondparam    30    85   1.195000 5.836451 # GBM-ABB
+bondparam    30    86   1.195000 8.445130 # GBM-GBM
+bondparam    32    37   1.195000 5.216485 # ABB-GBM
+bondparam    32    39   1.195000 6.106744 # ABB-GBM
+bondparam    32    41   1.195000 8.646857 # ABB-GBM
+bondparam    32    68   1.195000 8.990530 # ABB-GBM
+bondparam    32    73   1.195000 7.065134 # ABB-GBM
+bondparam    32    75   1.195000 4.504047 # ABB-GBM
+bondparam    32    80   1.195000 7.364674 # ABB-GBM
+bondparam    32    82   1.195000 7.876897 # ABB-GBM
+bondparam    32    85   1.195000 5.053574 # ABB-ABB
+bondparam    32    86   1.195000 5.987875 # ABB-GBM
+bondparam    32    92   1.195000 8.729294 # ABB-GBM
+bondparam    32   156   1.195000 8.102671 # ABB-GBM
+bondparam    32   161   1.195000 7.846496 # ABB-GBM
+bondparam    33    39   1.195000 5.204388 # GBM-GBM
+bondparam    33    41   1.195000 6.260338 # GBM-GBM
+bondparam    33    44   1.195000 8.603577 # GBM-GBB
+bondparam    33    75   1.195000 7.225229 # GBM-GBM
+bondparam    33    85   1.195000 8.826046 # GBM-ABB
+bondparam    33   156   1.195000 8.683630 # GBM-GBM
+bondparam    33   161   1.195000 6.838388 # GBM-GBM
+bondparam    35    41   1.195000 5.103825 # GBM-GBM
+bondparam    35    44   1.195000 6.104011 # GBM-GBB
+bondparam    35    45   1.195000 8.676596 # GBM-GBM
+bondparam    35    63   1.195000 8.655609 # GBM-GBM
+bondparam    35    75   1.195000 7.897897 # GBM-GBM
+bondparam    37    44   1.195000 4.929706 # GBM-GBB
+bondparam    37    45   1.195000 6.190955 # GBM-GBM
+bondparam    37    50   1.195000 8.716163 # GBM-GBM
+bondparam    37    61   1.195000 8.729932 # GBM-GBM
+bondparam    37    63   1.195000 5.066073 # GBM-GBM
+bondparam    37    68   1.195000 6.420784 # GBM-GBM
+bondparam    37    71   1.195000 8.201237 # GBM-GBM
+bondparam    37    73   1.195000 5.735294 # GBM-GBM
+bondparam    37    75   1.195000 4.930009 # GBM-GBM
+bondparam    37    80   1.195000 8.702576 # GBM-GBM
+bondparam    37    85   1.195000 8.345204 # GBM-ABB
+bondparam    39    45   1.195000 5.082783 # GBM-GBM
+bondparam    39    50   1.195000 6.337030 # GBM-GBM
+bondparam    39    52   1.195000 8.647006 # GBM-GBM
+bondparam    39    63   1.195000 6.659449 # GBM-GBM
+bondparam    39    68   1.195000 6.293195 # GBM-GBM
+bondparam    39    73   1.195000 8.089878 # GBM-GBM
+bondparam    39    75   1.195000 5.701798 # GBM-GBM
+bondparam    39   161   1.195000 6.829187 # GBM-GBM
+bondparam    39   163   1.195000 8.168542 # GBM-GBB
+bondparam    39   167   1.195000 7.712697 # GBM-GBM
+bondparam    39   169   1.195000 6.036781 # GBM-GBM
+bondparam    39   175   1.195000 8.763225 # GBM-GBB
+bondparam    41    50   1.195000 5.164058 # GBM-GBM
+bondparam    41    52   1.195000 6.161426 # GBM-GBM
+bondparam    41    54   1.195000 8.662186 # GBM-GBM
+bondparam    41    63   1.195000 8.276917 # GBM-GBM
+bondparam    41   161   1.195000 8.996236 # GBM-GBM
+bondparam    41   167   1.195000 8.971400 # GBM-GBM
+bondparam    41   169   1.195000 8.411034 # GBM-GBM
+bondparam    44    52   1.195000 5.090320 # GBB-GBM
+bondparam    44    54   1.195000 6.062837 # GBB-GBM
+bondparam    44    56   1.195000 7.824723 # GBB-GBB
+bondparam    44    57   1.195000 7.968343 # GBB-GBM
+bondparam    44    63   1.195000 5.791653 # GBB-GBM
+bondparam    44    68   1.195000 8.022960 # GBB-GBM
+bondparam    45    54   1.195000 5.345429 # GBM-GBM
+bondparam    45    56   1.195000 5.034362 # GBM-GBB
+bondparam    45    57   1.195000 5.831877 # GBM-GBM
+bondparam    45    59   1.195000 6.754480 # GBM-GBM
+bondparam    45    61   1.195000 7.781979 # GBM-GBM
+bondparam    45    63   1.195000 4.955281 # GBM-GBM
+bondparam    45    68   1.195000 5.639712 # GBM-GBM
+bondparam    45    75   1.195000 8.508676 # GBM-GBM
+bondparam    45   169   1.195000 7.489906 # GBM-GBM
+bondparam    45   175   1.195000 7.413127 # GBM-GBB
+bondparam    45   176   1.195000 7.012564 # GBM-GBM
+bondparam    50    56   1.195000 5.865278 # GBM-GBB
+bondparam    50    57   1.195000 8.459958 # GBM-GBM
+bondparam    50    63   1.195000 8.747023 # GBM-GBM
+bondparam    50    68   1.195000 8.877005 # GBM-GBM
+bondparam    50   167   1.195000 8.257165 # GBM-GBM
+bondparam    50   169   1.195000 7.182780 # GBM-GBM
+bondparam    50   173   1.195000 8.996753 # GBM-GBM
+bondparam    50   175   1.195000 5.646844 # GBM-GBB
+bondparam    50   176   1.195000 4.510024 # GBM-GBM
+bondparam    50   178   1.195000 8.320308 # GBM-GBM
+bondparam    50   180   1.195000 8.929558 # GBM-GBM
+bondparam    50   183   1.195000 7.134649 # GBM-GBM
+bondparam    50   190   1.195000 7.808340 # GBM-ABB
+bondparam    50   191   1.195000 8.686363 # GBM-GBM
+bondparam    52    57   1.195000 8.388620 # GBM-GBM
+bondparam    52   176   1.195000 6.726958 # GBM-GBM
+bondparam    52   183   1.195000 8.734831 # GBM-GBM
+bondparam    54    59   1.195000 8.571374 # GBM-GBM
+bondparam    54    63   1.195000 8.313410 # GBM-GBM
+bondparam    54   176   1.195000 7.448182 # GBM-GBM
+bondparam    56    61   1.195000 8.721470 # GBB-GBM
+bondparam    56    63   1.195000 7.984851 # GBB-GBM
+bondparam    56    68   1.195000 8.456416 # GBB-GBM
+bondparam    56   175   1.195000 7.835278 # GBB-GBB
+bondparam    56   176   1.195000 5.729076 # GBB-GBM
+bondparam    56   178   1.195000 7.823870 # GBB-GBM
+bondparam    57    63   1.195000 5.958712 # GBM-GBM
+bondparam    57    68   1.195000 7.314455 # GBM-GBM
+bondparam    59    68   1.195000 4.952590 # GBM-GBM
+bondparam    59    71   1.195000 6.206184 # GBM-GBM
+bondparam    59    73   1.195000 8.618475 # GBM-GBM
+bondparam    61    71   1.195000 4.998526 # GBM-GBM
+bondparam    61    73   1.195000 6.299782 # GBM-GBM
+bondparam    61    75   1.195000 8.741877 # GBM-GBM
+bondparam    63    73   1.195000 4.956466 # GBM-GBM
+bondparam    63    75   1.195000 6.281890 # GBM-GBM
+bondparam    63    80   1.195000 8.673306 # GBM-GBM
+bondparam    68    75   1.195000 4.961546 # GBM-GBM
+bondparam    68    80   1.195000 6.236306 # GBM-GBM
+bondparam    68    82   1.195000 8.545315 # GBM-GBM
+bondparam    68   169   1.195000 7.597059 # GBM-GBM
+bondparam    71    80   1.195000 5.017499 # GBM-GBM
+bondparam    71    82   1.195000 6.067781 # GBM-GBM
+bondparam    71    85   1.195000 8.584203 # GBM-ABB
+bondparam    73    82   1.195000 4.903120 # GBM-GBM
+bondparam    73    85   1.195000 6.025101 # GBM-ABB
+bondparam    73    86   1.195000 8.371890 # GBM-GBM
+bondparam    75    85   1.195000 5.184694 # GBM-ABB
+bondparam    75    86   1.195000 6.012469 # GBM-GBM
+bondparam    75    89   1.195000 8.508932 # GBM-GBM
+bondparam    75   161   1.195000 8.986250 # GBM-GBM
+bondparam    75   163   1.195000 8.809768 # GBM-GBB
+bondparam    75   169   1.195000 8.683762 # GBM-GBM
+bondparam    80    86   1.195000 5.043740 # GBM-GBM
+bondparam    80    89   1.195000 6.039907 # GBM-GBM
+bondparam    80    91   1.195000 8.436418 # GBM-ABB
+bondparam    82    89   1.195000 5.108811 # GBM-GBM
+bondparam    82    91   1.195000 5.943228 # GBM-ABB
+bondparam    82    92   1.195000 8.427186 # GBM-GBM
+bondparam    85    91   1.195000 4.946071 # ABB-ABB
+bondparam    85    92   1.195000 5.920177 # ABB-GBM
+bondparam    85    94   1.195000 8.601171 # ABB-ABB
+bondparam    86    92   1.195000 5.141197 # GBM-GBM
+bondparam    86    94   1.195000 6.412770 # GBM-ABB
+bondparam    86    95   1.195000 8.769470 # GBM-ABB
+bondparam    86   156   1.195000 7.348674 # GBM-GBM
+bondparam    89    94   1.195000 5.283038 # GBM-ABB
+bondparam    89    95   1.195000 6.307730 # GBM-ABB
+bondparam    89    96   1.195000 8.630262 # GBM-GBM
+bondparam    91    95   1.195000 5.043507 # ABB-ABB
+bondparam    91    96   1.195000 5.934184 # ABB-GBM
+bondparam    91    99   1.195000 8.405145 # ABB-GBM
+bondparam    92    96   1.195000 5.067063 # GBM-GBM
+bondparam    92    99   1.195000 5.969044 # GBM-GBM
+bondparam    92   101   1.195000 8.481903 # GBM-GBM
+bondparam    92   147   1.195000 8.732304 # GBM-GBM
+bondparam    94    99   1.195000 5.148271 # ABB-GBM
+bondparam    94   101   1.195000 6.152928 # ABB-GBM
+bondparam    94   103   1.195000 8.671460 # ABB-GBB
+bondparam    94   140   1.195000 8.936095 # ABB-GBM
+bondparam    95   101   1.195000 5.098890 # ABB-GBM
+bondparam    95   103   1.195000 6.248719 # ABB-GBB
+bondparam    95   104   1.195000 8.637675 # ABB-GBM
+bondparam    96   103   1.195000 5.083003 # GBM-GBB
+bondparam    96   104   1.195000 5.981866 # GBM-GBM
+bondparam    96   106   1.195000 8.416881 # GBM-GBM
+bondparam    99   104   1.195000 5.146241 # GBM-GBM
+bondparam    99   106   1.195000 6.123688 # GBM-GBM
+bondparam    99   109   1.195000 8.689590 # GBM-ABB
+bondparam    99   132   1.195000 7.987987 # GBM-GBM
+bondparam    99   140   1.195000 7.350606 # GBM-GBM
+bondparam   101   106   1.195000 5.271902 # GBM-GBM
+bondparam   101   109   1.195000 6.600150 # GBM-ABB
+bondparam   103   109   1.195000 4.894403 # GBB-ABB
+bondparam   103   110   1.195000 6.515808 # GBB-GBM
+bondparam   103   112   1.195000 8.825201 # GBB-GBM
+bondparam   104   110   1.195000 5.076242 # GBM-GBM
+bondparam   104   112   1.195000 6.390305 # GBM-GBM
+bondparam   104   114   1.195000 8.608869 # GBM-ABB
+bondparam   104   132   1.195000 8.102522 # GBM-GBM
+bondparam   106   112   1.195000 5.190708 # GBM-GBM
+bondparam   106   114   1.195000 6.025158 # GBM-ABB
+bondparam   106   123   1.195000 8.645150 # GBM-GBM
+bondparam   106   125   1.195000 6.668634 # GBM-GBM
+bondparam   106   132   1.195000 6.803502 # GBM-GBM
+bondparam   106   134   1.195000 8.517225 # GBM-GBM
+bondparam   109   114   1.195000 5.116793 # ABB-ABB
+bondparam   109   115   1.195000 8.612350 # ABB-GBM
+bondparam   110   115   1.195000 7.810134 # GBM-GBM
+bondparam   110   117   1.195000 8.987114 # GBM-GBM
+bondparam   112   117   1.195000 5.518468 # GBM-GBM
+bondparam   112   119   1.195000 7.974891 # GBM-GBM
+bondparam   112   123   1.195000 6.175239 # GBM-GBM
+bondparam   112   125   1.195000 6.014230 # GBM-GBM
+bondparam   112   132   1.195000 8.448416 # GBM-GBM
+bondparam   114   119   1.195000 7.501598 # ABB-GBM
+bondparam   114   123   1.195000 8.253269 # ABB-GBM
+bondparam   114   125   1.195000 6.588100 # ABB-GBM
+bondparam   115   123   1.195000 8.502269 # GBM-GBM
+bondparam   115   125   1.195000 8.021857 # GBM-GBM
+bondparam   117   123   1.195000 5.319680 # GBM-GBM
+bondparam   117   125   1.195000 6.028582 # GBM-GBM
+bondparam   117   127   1.195000 8.602605 # GBM-ABB
+bondparam   119   125   1.195000 4.919736 # GBM-GBM
+bondparam   119   127   1.195000 6.061611 # GBM-ABB
+bondparam   119   128   1.195000 8.565156 # GBM-GBM
+bondparam   121   127   1.195000 5.212302 # GBM-ABB
+bondparam   121   128   1.195000 6.354107 # GBM-GBM
+bondparam   121   132   1.195000 8.760198 # GBM-GBM
+bondparam   123   128   1.195000 4.889671 # GBM-GBM
+bondparam   123   132   1.195000 6.071157 # GBM-GBM
+bondparam   123   134   1.195000 8.417566 # GBM-GBM
+bondparam   123   237   1.195000 6.846989 # GBM-GBM
+bondparam   123   244   1.195000 7.734739 # GBM-ABB
+bondparam   123   245   1.195000 8.499496 # GBM-GBM
+bondparam   125   132   1.195000 5.048369 # GBM-GBM
+bondparam   125   134   1.195000 6.046966 # GBM-GBM
+bondparam   125   136   1.195000 8.564903 # GBM-GBM
+bondparam   127   134   1.195000 4.946904 # ABB-GBM
+bondparam   127   136   1.195000 6.227544 # ABB-GBM
+bondparam   127   138   1.195000 8.721236 # ABB-GBM
+bondparam   128   136   1.195000 5.006412 # GBM-GBM
+bondparam   128   138   1.195000 6.235161 # GBM-GBM
+bondparam   128   140   1.195000 8.584085 # GBM-GBM
+bondparam   128   229   1.195000 7.412375 # GBM-GBM
+bondparam   128   231   1.195000 8.712774 # GBM-GBM
+bondparam   128   235   1.195000 7.540825 # GBM-GBM
+bondparam   128   237   1.195000 6.564050 # GBM-GBM
+bondparam   132   138   1.195000 4.969363 # GBM-GBM
+bondparam   132   140   1.195000 6.021886 # GBM-GBM
+bondparam   132   143   1.195000 8.575961 # GBM-GBM
+bondparam   132   229   1.195000 8.316538 # GBM-GBM
+bondparam   132   231   1.195000 8.625210 # GBM-GBM
+bondparam   132   237   1.195000 7.525633 # GBM-GBM
+bondparam   134   140   1.195000 5.139757 # GBM-GBM
+bondparam   134   143   1.195000 6.357235 # GBM-GBM
+bondparam   134   145   1.195000 8.844282 # GBM-GBM
+bondparam   136   143   1.195000 5.206064 # GBM-GBM
+bondparam   136   145   1.195000 6.489096 # GBM-GBM
+bondparam   136   147   1.195000 8.759461 # GBM-GBM
+bondparam   136   229   1.195000 7.471332 # GBM-GBM
+bondparam   138   145   1.195000 5.099541 # GBM-GBM
+bondparam   138   147   1.195000 6.102584 # GBM-GBM
+bondparam   138   149   1.195000 8.527930 # GBM-GBM
+bondparam   138   220   1.195000 8.661467 # GBM-GBM
+bondparam   138   223   1.195000 6.348284 # GBM-GBM
+bondparam   138   229   1.195000 5.600820 # GBM-GBM
+bondparam   138   231   1.195000 7.062245 # GBM-GBM
+bondparam   138   237   1.195000 8.936095 # GBM-GBM
+bondparam   140   147   1.195000 4.952066 # GBM-GBM
+bondparam   140   149   1.195000 5.878865 # GBM-GBM
+bondparam   140   151   1.195000 8.480826 # GBM-GBM
+bondparam   140   223   1.195000 8.952787 # GBM-GBM
+bondparam   143   149   1.195000 5.197576 # GBM-GBM
+bondparam   143   151   1.195000 6.339156 # GBM-GBM
+bondparam   143   153   1.195000 8.682704 # GBM-GBM
+bondparam   145   151   1.195000 5.275490 # GBM-GBM
+bondparam   145   153   1.195000 6.200203 # GBM-GBM
+bondparam   145   156   1.195000 8.650832 # GBM-GBM
+bondparam   145   214   1.195000 6.496645 # GBM-GBM
+bondparam   145   216   1.195000 8.645347 # GBM-GBM
+bondparam   145   220   1.195000 7.389402 # GBM-GBM
+bondparam   145   223   1.195000 6.195133 # GBM-GBM
+bondparam   145   229   1.195000 8.342827 # GBM-GBM
+bondparam   147   153   1.195000 4.939290 # GBM-GBM
+bondparam   147   156   1.195000 5.959824 # GBM-GBM
+bondparam   147   158   1.195000 8.458108 # GBM-ABB
+bondparam   147   214   1.195000 7.813350 # GBM-GBM
+bondparam   147   216   1.195000 8.708035 # GBM-GBM
+bondparam   147   223   1.195000 6.905230 # GBM-GBM
+bondparam   149   156   1.195000 5.180475 # GBM-GBM
+bondparam   149   158   1.195000 6.174803 # GBM-ABB
+bondparam   149   159   1.195000 8.666875 # GBM-GBM
+bondparam   151   158   1.195000 5.162777 # GBM-ABB
+bondparam   151   159   1.195000 6.370866 # GBM-GBM
+bondparam   151   161   1.195000 8.995183 # GBM-GBM
+bondparam   151   214   1.195000 7.675301 # GBM-GBM
+bondparam   153   159   1.195000 5.037855 # GBM-GBM
+bondparam   153   161   1.195000 6.427331 # GBM-GBM
+bondparam   153   163   1.195000 8.586858 # GBM-GBB
+bondparam   153   203   1.195000 8.575653 # GBM-ABB
+bondparam   153   214   1.195000 6.051579 # GBM-GBM
+bondparam   153   216   1.195000 7.515955 # GBM-GBM
+bondparam   153   223   1.195000 8.790078 # GBM-GBM
+bondparam   156   161   1.195000 5.161601 # GBM-GBM
+bondparam   156   163   1.195000 5.902854 # GBM-GBB
+bondparam   156   164   1.195000 8.486017 # GBM-GBM
+bondparam   158   163   1.195000 5.127445 # ABB-GBB
+bondparam   158   164   1.195000 6.213902 # ABB-GBM
+bondparam   158   167   1.195000 8.797084 # ABB-GBM
+bondparam   159   164   1.195000 5.393269 # GBM-GBM
+bondparam   159   167   1.195000 6.594351 # GBM-GBM
+bondparam   159   169   1.195000 8.828265 # GBM-GBM
+bondparam   159   195   1.195000 8.196051 # GBM-GBM
+bondparam   159   197   1.195000 7.701800 # GBM-GBM
+bondparam   159   203   1.195000 6.468633 # GBM-ABB
+bondparam   161   167   1.195000 5.092768 # GBM-GBM
+bondparam   161   169   1.195000 6.070198 # GBM-GBM
+bondparam   161   171   1.195000 8.458268 # GBM-GBM
+bondparam   161   197   1.195000 7.597331 # GBM-GBM
+bondparam   161   203   1.195000 8.598338 # GBM-ABB
+bondparam   163   169   1.195000 4.944851 # GBB-GBM
+bondparam   163   171   1.195000 5.975979 # GBB-GBM
+bondparam   163   173   1.195000 8.668820 # GBB-GBM
+bondparam   164   171   1.195000 4.912494 # GBM-GBM
+bondparam   164   173   1.195000 6.308652 # GBM-GBM
+bondparam   164   175   1.195000 8.423727 # GBM-GBB
+bondparam   164   190   1.195000 8.044198 # GBM-ABB
+bondparam   164   195   1.195000 7.945773 # GBM-GBM
+bondparam   164   197   1.195000 8.755361 # GBM-GBM
+bondparam   167   173   1.195000 5.196705 # GBM-GBM
+bondparam   167   175   1.195000 6.019246 # GBM-GBB
+bondparam   167   188   1.195000 8.255755 # GBM-GBM
+bondparam   167   190   1.195000 5.057390 # GBM-ABB
+bondparam   167   191   1.195000 7.608251 # GBM-GBM
+bondparam   167   195   1.195000 6.396548 # GBM-GBM
+bondparam   167   197   1.195000 6.232388 # GBM-GBM
+bondparam   169   175   1.195000 4.764488 # GBM-GBB
+bondparam   169   176   1.195000 8.057973 # GBM-GBM
+bondparam   169   190   1.195000 7.519266 # GBM-ABB
+bondparam   171   190   1.195000 8.161634 # GBM-ABB
+bondparam   173   178   1.195000 7.308991 # GBM-GBM
+bondparam   173   180   1.195000 5.615994 # GBM-GBM
+bondparam   173   183   1.195000 7.572471 # GBM-GBM
+bondparam   173   188   1.195000 6.703688 # GBM-GBM
+bondparam   173   190   1.195000 5.274730 # GBM-ABB
+bondparam   173   195   1.195000 8.850573 # GBM-GBM
+bondparam   175   180   1.195000 5.497055 # GBB-GBM
+bondparam   175   183   1.195000 6.393314 # GBB-GBM
+bondparam   175   188   1.195000 8.317034 # GBB-GBM
+bondparam   175   190   1.195000 5.898489 # GBB-ABB
+bondparam   176   183   1.195000 4.753559 # GBM-GBM
+bondparam   176   185   1.195000 8.528601 # GBM-GBM
+bondparam   176   190   1.195000 7.191529 # GBM-ABB
+bondparam   178   185   1.195000 8.942228 # GBM-GBM
+bondparam   178   190   1.195000 8.789577 # GBM-ABB
+bondparam   180   188   1.195000 5.550649 # GBM-GBM
+bondparam   180   190   1.195000 5.978538 # GBM-ABB
+bondparam   180   191   1.195000 8.560258 # GBM-GBM
+bondparam   183   190   1.195000 5.039684 # GBM-ABB
+bondparam   183   191   1.195000 5.980647 # GBM-GBM
+bondparam   183   193   1.195000 8.485454 # GBM-GBM
+bondparam   185   191   1.195000 5.150993 # GBM-GBM
+bondparam   185   193   1.195000 6.066479 # GBM-GBM
+bondparam   185   195   1.195000 8.625092 # GBM-GBM
+bondparam   188   193   1.195000 5.089662 # GBM-GBM
+bondparam   188   195   1.195000 6.268073 # GBM-GBM
+bondparam   188   197   1.195000 8.578182 # GBM-GBM
+bondparam   190   195   1.195000 5.277022 # ABB-GBM
+bondparam   190   197   1.195000 6.100666 # ABB-GBM
+bondparam   190   199   1.195000 8.643185 # ABB-GBM
+bondparam   191   197   1.195000 4.897562 # GBM-GBM
+bondparam   191   199   1.195000 6.047067 # GBM-GBM
+bondparam   191   201   1.195000 8.423910 # GBM-GBM
+bondparam   193   199   1.195000 5.299914 # GBM-GBM
+bondparam   193   201   1.195000 6.126543 # GBM-GBM
+bondparam   193   203   1.195000 8.638679 # GBM-ABB
+bondparam   195   201   1.195000 4.912167 # GBM-GBM
+bondparam   195   203   1.195000 5.996176 # GBM-ABB
+bondparam   195   204   1.195000 8.677250 # GBM-GBM
+bondparam   197   203   1.195000 5.245672 # GBM-ABB
+bondparam   197   204   1.195000 6.740812 # GBM-GBM
+bondparam   199   204   1.195000 5.237717 # GBM-GBM
+bondparam   199   207   1.195000 7.722782 # GBM-GBM
+bondparam   201   207   1.195000 6.115505 # GBM-GBM
+bondparam   201   209   1.195000 8.304532 # GBM-GBM
+bondparam   203   209   1.195000 6.063367 # ABB-GBM
+bondparam   203   211   1.195000 7.795830 # ABB-GBM
+bondparam   203   214   1.195000 8.403780 # ABB-GBM
+bondparam   204   211   1.195000 5.618253 # GBM-GBM
+bondparam   204   214   1.195000 7.692014 # GBM-GBM
+bondparam   204   216   1.195000 8.602617 # GBM-GBM
+bondparam   207   214   1.195000 8.346898 # GBM-GBM
+bondparam   209   216   1.195000 8.337622 # GBM-GBM
+bondparam   209   220   1.195000 8.667422 # GBM-GBM
+bondparam   211   218   1.195000 5.430418 # GBM-GBM
+bondparam   211   220   1.195000 6.182105 # GBM-GBM
+bondparam   211   223   1.195000 8.602863 # GBM-GBM
+bondparam   214   220   1.195000 4.885351 # GBM-GBM
+bondparam   214   223   1.195000 5.898660 # GBM-GBM
+bondparam   214   225   1.195000 8.569223 # GBM-GBM
+bondparam   216   223   1.195000 5.200993 # GBM-GBM
+bondparam   216   225   1.195000 6.368616 # GBM-GBM
+bondparam   216   227   1.195000 8.705014 # GBM-GBM
+bondparam   218   225   1.195000 5.234733 # GBM-GBM
+bondparam   218   227   1.195000 6.290936 # GBM-GBM
+bondparam   218   229   1.195000 8.573697 # GBM-GBM
+bondparam   220   227   1.195000 5.085335 # GBM-GBM
+bondparam   220   229   1.195000 6.056920 # GBM-GBM
+bondparam   220   231   1.195000 8.658938 # GBM-GBM
+bondparam   223   229   1.195000 4.726395 # GBM-GBM
+bondparam   223   231   1.195000 6.082481 # GBM-GBM
+bondparam   223   233   1.195000 8.554852 # GBM-GBM
+bondparam   225   231   1.195000 5.052223 # GBM-GBM
+bondparam   225   233   1.195000 6.214253 # GBM-GBM
+bondparam   225   235   1.195000 8.735510 # GBM-GBM
+bondparam   227   233   1.195000 5.110830 # GBM-GBM
+bondparam   227   235   1.195000 6.372393 # GBM-GBM
+bondparam   227   237   1.195000 8.888067 # GBM-GBM
+bondparam   229   235   1.195000 5.322551 # GBM-GBM
+bondparam   229   237   1.195000 6.668601 # GBM-GBM
+bondparam   229   239   1.195000 8.852242 # GBM-GBM
+bondparam   231   237   1.195000 5.216308 # GBM-GBM
+bondparam   231   239   1.195000 6.181418 # GBM-GBM
+bondparam   231   241   1.195000 8.648972 # GBM-GBM
+bondparam   233   239   1.195000 4.849985 # GBM-GBM
+bondparam   233   241   1.195000 5.855485 # GBM-GBM
+bondparam   233   244   1.195000 8.170322 # GBM-ABB
+bondparam   235   241   1.195000 5.319319 # GBM-GBM
+bondparam   235   244   1.195000 5.966124 # GBM-ABB
+bondparam   235   245   1.195000 8.623446 # GBM-GBM
+bondparam   237   244   1.195000 5.073210 # GBM-ABB
+bondparam   237   245   1.195000 6.225625 # GBM-GBM
+bondparam   237   247   1.195000 8.619382 # GBM-GBM
+bondparam   239   245   1.195000 5.229542 # GBM-GBM
+bondparam   239   247   1.195000 6.160380 # GBM-GBM
+bondparam   239   249   1.195000 8.522963 # GBM-ABB
+bondparam   241   247   1.195000 4.967821 # GBM-GBM
+bondparam   241   249   1.195000 5.891946 # GBM-ABB
+bondparam   241   250   1.195000 8.161746 # GBM-GBM
+bondparam   244   249   1.195000 5.078268 # ABB-ABB
+bondparam   244   250   1.195000 5.737820 # ABB-GBM
+bondparam   244   252   1.195000 8.481487 # ABB-GBM
+bondparam   245   250   1.195000 4.731775 # GBM-GBM
+bondparam   245   252   1.195000 5.978983 # GBM-GBM
+bondparam   245   254   1.195000 8.485909 # GBM-GBM
+bondparam   247   252   1.195000 5.227876 # GBM-GBM
+bondparam   247   254   1.195000 6.279525 # GBM-GBM
+bondparam   247   256   1.195000 8.703583 # GBM-GBM
+bondparam   249   254   1.195000 5.183258 # ABB-GBM
+bondparam   249   256   1.195000 6.295043 # ABB-GBM
+bondparam   249   258   1.195000 8.735757 # ABB-GBM
+bondparam   250   256   1.195000 5.185688 # GBM-GBM
+bondparam   250   258   1.195000 6.186858 # GBM-GBM
+bondparam   252   258   1.195000 5.079316 # GBM-GBM
+
+bond     1     3 # GBM-GBM
+bond     3     5 # GBM-GBM
+bond     5     8 # GBM-ABB
+bond     8     9 # ABB-GBM
+bond     9    11 # GBM-GBM
+bond    11    13 # GBM-ABB
+bond    13    14 # ABB-GBM
+bond    14    16 # GBM-GBM
+bond    16    18 # GBM-ABB
+bond    18    19 # ABB-GBM
+bond    19    21 # GBM-GBM
+bond    21    23 # GBM-GBM
+bond    23    25 # GBM-ABB
+bond    25    26 # ABB-GBM
+bond    26    28 # GBM-GBM
+bond    28    30 # GBM-GBM
+bond    30    32 # GBM-ABB
+bond    32    33 # ABB-GBM
+bond    33    35 # GBM-GBM
+bond    35    37 # GBM-GBM
+bond    37    39 # GBM-GBM
+bond    39    41 # GBM-GBM
+bond    41    44 # GBM-GBB
+bond    44    45 # GBB-GBM
+bond    45    50 # GBM-GBM
+bond    50    52 # GBM-GBM
+bond    52    54 # GBM-GBM
+bond    54    56 # GBM-GBB
+bond    56    57 # GBB-GBM
+bond    57    59 # GBM-GBM
+bond    59    61 # GBM-GBM
+bond    61    63 # GBM-GBM
+bond    63    68 # GBM-GBM
+bond    68    71 # GBM-GBM
+bond    71    73 # GBM-GBM
+bond    73    75 # GBM-GBM
+bond    75    80 # GBM-GBM
+bond    80    82 # GBM-GBM
+bond    82    85 # GBM-ABB
+bond    85    86 # ABB-GBM
+bond    86    89 # GBM-GBM
+bond    89    91 # GBM-ABB
+bond    91    92 # ABB-GBM
+bond    92    94 # GBM-ABB
+bond    94    95 # ABB-ABB
+bond    95    96 # ABB-GBM
+bond    96    99 # GBM-GBM
+bond    99   101 # GBM-GBM
+bond   101   103 # GBM-GBB
+bond   103   104 # GBB-GBM
+bond   104   106 # GBM-GBM
+bond   106   109 # GBM-ABB
+bond   109   110 # ABB-GBM
+bond   110   112 # GBM-GBM
+bond   112   114 # GBM-ABB
+bond   114   115 # ABB-GBM
+bond   115   117 # GBM-GBM
+bond   117   119 # GBM-GBM
+bond   119   121 # GBM-GBM
+bond   121   123 # GBM-GBM
+bond   123   125 # GBM-GBM
+bond   125   127 # GBM-ABB
+bond   127   128 # ABB-GBM
+bond   128   132 # GBM-GBM
+bond   132   134 # GBM-GBM
+bond   134   136 # GBM-GBM
+bond   136   138 # GBM-GBM
+bond   138   140 # GBM-GBM
+bond   140   143 # GBM-GBM
+bond   143   145 # GBM-GBM
+bond   145   147 # GBM-GBM
+bond   147   149 # GBM-GBM
+bond   149   151 # GBM-GBM
+bond   151   153 # GBM-GBM
+bond   153   156 # GBM-GBM
+bond   156   158 # GBM-ABB
+bond   158   159 # ABB-GBM
+bond   159   161 # GBM-GBM
+bond   161   163 # GBM-GBB
+bond   163   164 # GBB-GBM
+bond   164   167 # GBM-GBM
+bond   167   169 # GBM-GBM
+bond   169   171 # GBM-GBM
+bond   171   173 # GBM-GBM
+bond   173   175 # GBM-GBB
+bond   175   176 # GBB-GBM
+bond   176   178 # GBM-GBM
+bond   178   180 # GBM-GBM
+bond   180   183 # GBM-GBM
+bond   183   185 # GBM-GBM
+bond   185   188 # GBM-GBM
+bond   188   190 # GBM-ABB
+bond   190   191 # ABB-GBM
+bond   191   193 # GBM-GBM
+bond   193   195 # GBM-GBM
+bond   195   197 # GBM-GBM
+bond   197   199 # GBM-GBM
+bond   199   201 # GBM-GBM
+bond   201   203 # GBM-ABB
+bond   203   204 # ABB-GBM
+bond   204   207 # GBM-GBM
+bond   207   209 # GBM-GBM
+bond   209   211 # GBM-GBM
+bond   211   214 # GBM-GBM
+bond   214   216 # GBM-GBM
+bond   216   218 # GBM-GBM
+bond   218   220 # GBM-GBM
+bond   220   223 # GBM-GBM
+bond   223   225 # GBM-GBM
+bond   225   227 # GBM-GBM
+bond   227   229 # GBM-GBM
+bond   229   231 # GBM-GBM
+bond   231   233 # GBM-GBM
+bond   233   235 # GBM-GBM
+bond   235   237 # GBM-GBM
+bond   237   239 # GBM-GBM
+bond   239   241 # GBM-GBM
+bond   241   244 # GBM-ABB
+bond   244   245 # ABB-GBM
+bond   245   247 # GBM-GBM
+bond   247   249 # GBM-ABB
+bond   249   250 # ABB-GBM
+bond   250   252 # GBM-GBM
+bond   252   254 # GBM-GBM
+bond   254   256 # GBM-GBM
+bond   256   258 # GBM-GBM
+
+bond     1     2 # GBM-THR
+bond     3     4 # GBM-ASN
+bond     5     6 # GBM-LY1
+bond     6     7 # LY1-LY2
+bond     9    10 # GBM-LEU
+bond    11    12 # GBM-LEU
+bond    14    15 # GBM-ILE
+bond    16    17 # GBM-SER
+bond    19    20 # GBM-ILE
+bond    21    22 # GBM-GLN
+bond    23    24 # GBM-GLN
+bond    26    27 # GBM-VAL
+bond    28    29 # GBM-LEU
+bond    30    31 # GBM-GLU
+bond    33    34 # GBM-GLU
+bond    35    36 # GBM-THR
+bond    37    38 # GBM-SER
+bond    39    40 # GBM-GLU
+bond    41    42 # GBM-AR1
+bond    42    43 # AR1-AR2
+bond    45    46 # GBM-PH1
+bond    46    47 # PH1-PH2
+bond    47    48 # PH2-PH3
+bond    48    49 # PH3-PH4
+bond    49    46 # PH4-PH1
+bond    50    51 # GBM-LEU
+bond    52    53 # GBM-LEU
+bond    54    55 # GBM-THR
+bond    57    58 # GBM-ILE
+bond    59    60 # GBM-GLU
+bond    61    62 # GBM-THR
+bond    63    64 # GBM-TY1
+bond    64    65 # TY1-TY2
+bond    65    66 # TY2-TY3
+bond    66    67 # TY3-TY4
+bond    67    64 # TY4-TY1
+bond    68    69 # GBM-AR1
+bond    69    70 # AR1-AR2
+bond    71    72 # GBM-ASP
+bond    73    74 # GBM-SER
+bond    75    76 # GBM-TY1
+bond    76    77 # TY1-TY2
+bond    77    78 # TY2-TY3
+bond    78    79 # TY3-TY4
+bond    79    76 # TY4-TY1
+bond    80    81 # GBM-ILE
+bond    82    83 # GBM-AR1
+bond    83    84 # AR1-AR2
+bond    86    87 # GBM-AR1
+bond    87    88 # AR1-AR2
+bond    89    90 # GBM-ASP
+bond    92    93 # GBM-LEU
+bond    96    97 # GBM-AR1
+bond    97    98 # AR1-AR2
+bond    99   100 # GBM-LEU
+bond   101   102 # GBM-ASP
+bond   104   105 # GBM-LEU
+bond   106   107 # GBM-AR1
+bond   107   108 # AR1-AR2
+bond   110   111 # GBM-VAL
+bond   112   113 # GBM-LEU
+bond   115   116 # GBM-ASP
+bond   117   118 # GBM-ASN
+bond   119   120 # GBM-PRO
+bond   121   122 # GBM-GLU
+bond   123   124 # GBM-GLN
+bond   125   126 # GBM-ILE
+bond   128   129 # GBM-HI1
+bond   129   130 # HI1-HI2
+bond   129   131 # HI1-HI3
+bond   130   131 # HI2-HI3
+bond   132   133 # GBM-ILE
+bond   134   135 # GBM-ASP
+bond   136   137 # GBM-GLU
+bond   138   139 # GBM-LEU
+bond   140   141 # GBM-AR1
+bond   141   142 # AR1-AR2
+bond   143   144 # GBM-LEU
+bond   145   146 # GBM-LEU
+bond   147   148 # GBM-THR
+bond   149   150 # GBM-ASP
+bond   151   152 # GBM-MET
+bond   153   154 # GBM-AR1
+bond   154   155 # AR1-AR2
+bond   156   157 # GBM-MET
+bond   159   160 # GBM-GLN
+bond   161   162 # GBM-LEU
+bond   164   165 # GBM-AR1
+bond   165   166 # AR1-AR2
+bond   167   168 # GBM-VAL
+bond   169   170 # GBM-VAL
+bond   171   172 # GBM-GLU
+bond   173   174 # GBM-LEU
+bond   176   177 # GBM-PRO
+bond   178   179 # GBM-GLU
+bond   180   181 # GBM-AR1
+bond   181   182 # AR1-AR2
+bond   183   184 # GBM-MET
+bond   185   186 # GBM-AR1
+bond   186   187 # AR1-AR2
+bond   188   189 # GBM-GLU
+bond   191   192 # GBM-LEU
+bond   193   194 # GBM-ASP
+bond   195   196 # GBM-ILE
+bond   197   198 # GBM-LEU
+bond   199   200 # GBM-GLU
+bond   201   202 # GBM-GLN
+bond   204   205 # GBM-AR1
+bond   205   206 # AR1-AR2
+bond   207   208 # GBM-VAL
+bond   209   210 # GBM-ASP
+bond   211   212 # GBM-AR1
+bond   212   213 # AR1-AR2
+bond   214   215 # GBM-LEU
+bond   216   217 # GBM-THR
+bond   218   219 # GBM-GLU
+bond   220   221 # GBM-AR1
+bond   221   222 # AR1-AR2
+bond   223   224 # GBM-ILE
+bond   225   226 # GBM-GLU
+bond   227   228 # GBM-THR
+bond   229   230 # GBM-SER
+bond   231   232 # GBM-LEU
+bond   233   234 # GBM-SER
+bond   235   236 # GBM-VAL
+bond   237   238 # GBM-LEU
+bond   239   240 # GBM-THR
+bond   241   242 # GBM-AR1
+bond   242   243 # AR1-AR2
+bond   245   246 # GBM-GLU
+bond   247   248 # GBM-GLN
+bond   250   251 # GBM-LEU
+bond   252   253 # GBM-LEU
+bond   254   255 # GBM-ILE
+bond   256   257 # GBM-GLN
+bond   258   259 # GBM-AR1
+bond   259   260 # AR1-AR2
+
+angleparam     1     3     5  -1   87.5038 # GBM GBM GBM
+angleparam     3     1     2  -1  104.5005 # GBM GBM THR
+angleparam     1     3     4  -1  104.6330 # GBM GBM ASN
+angleparam     3     5     8  -1   88.6744 # GBM GBM ABB
+angleparam     5     3     4  -1  141.2697 # GBM GBM ASN
+angleparam     3     5     6  -1  144.0392 # GBM GBM LY1
+angleparam     5     8     9  -1   94.7876 # GBM ABB GBM
+angleparam     8     5     6  -1  102.1817 # ABB GBM LY1
+angleparam     8     9    11  -1   90.9311 # ABB GBM GBM
+angleparam     8     9    10  -1  114.2055 # ABB GBM LEU
+angleparam     9    11    13  -1   89.0518 # GBM GBM ABB
+angleparam    11     9    10  -1  137.9208 # GBM GBM LEU
+angleparam     9    11    12  -1  120.6052 # GBM GBM LEU
+angleparam    11    13    14  -1   91.4326 # GBM ABB GBM
+angleparam    13    11    12  -1  127.6493 # ABB GBM LEU
+angleparam    13    14    16  -1   92.5228 # ABB GBM GBM
+angleparam    13    14    15  -1  124.4961 # ABB GBM ILE
+angleparam    14    16    18  -1   90.6246 # GBM GBM ABB
+angleparam    16    14    15  -1  120.3134 # GBM GBM ILE
+angleparam    14    16    17  -1  143.6090 # GBM GBM SER
+angleparam    16    18    19  -1   88.3289 # GBM ABB GBM
+angleparam    18    16    17  -1   94.2114 # ABB GBM SER
+angleparam    18    19    21  -1   92.8547 # ABB GBM GBM
+angleparam    18    19    20  -1  124.9000 # ABB GBM ILE
+angleparam    19    21    23  -1   87.4636 # GBM GBM GBM
+angleparam    21    19    20  -1  122.7055 # GBM GBM ILE
+angleparam    19    21    22  -1  137.1424 # GBM GBM GLN
+angleparam    21    23    25  -1   93.7986 # GBM GBM ABB
+angleparam    23    21    22  -1   91.5132 # GBM GBM GLN
+angleparam    21    23    24  -1  143.6938 # GBM GBM GLN
+angleparam    23    25    26  -1   92.7037 # GBM ABB GBM
+angleparam    25    23    24  -1   93.0332 # ABB GBM GLN
+angleparam    25    26    28  -1   90.9620 # ABB GBM GBM
+angleparam    25    26    27  -1  134.4388 # ABB GBM VAL
+angleparam    26    28    30  -1   90.9558 # GBM GBM GBM
+angleparam    28    26    27  -1  113.4075 # GBM GBM VAL
+angleparam    26    28    29  -1  117.4194 # GBM GBM LEU
+angleparam    28    30    32  -1   91.3655 # GBM GBM ABB
+angleparam    30    28    29  -1  133.3970 # GBM GBM LEU
+angleparam    28    30    31  -1  146.9934 # GBM GBM GLU
+angleparam    30    32    33  -1   91.2661 # GBM ABB GBM
+angleparam    32    30    31  -1  121.2874 # ABB GBM GLU
+angleparam    32    33    35  -1   96.5963 # ABB GBM GBM
+angleparam    32    33    34  -1  144.1605 # ABB GBM GLU
+angleparam    33    35    37  -1   91.0996 # GBM GBM GBM
+angleparam    35    33    34  -1   95.7912 # GBM GBM GLU
+angleparam    33    35    36  -1  141.0882 # GBM GBM THR
+angleparam    35    37    39  -1   92.5698 # GBM GBM GBM
+angleparam    37    35    36  -1  100.0832 # GBM GBM THR
+angleparam    35    37    38  -1  113.5451 # GBM GBM SER
+angleparam    37    39    41  -1   89.6785 # GBM GBM GBM
+angleparam    39    37    38  -1  129.8466 # GBM GBM SER
+angleparam    37    39    40  -1  140.1836 # GBM GBM GLU
+angleparam    39    41    44  -1   90.3983 # GBM GBM GBB
+angleparam    41    39    40  -1   71.5674 # GBM GBM GLU
+angleparam    39    41    42  -1  115.6057 # GBM GBM AR1
+angleparam    41    44    45  -1   89.7441 # GBM GBB GBM
+angleparam    44    41    42  -1  128.6994 # GBB GBM AR1
+angleparam    44    45    50  -1   93.1470 # GBB GBM GBM
+angleparam    44    45    46  -1  145.3667 # GBB GBM PH1
+angleparam    45    50    52  -1   89.6537 # GBM GBM GBM
+angleparam    50    45    46  -1  100.4572 # GBM GBM PH1
+angleparam    45    50    51  -1  125.9893 # GBM GBM LEU
+angleparam    50    52    54  -1  100.1647 # GBM GBM GBM
+angleparam    52    50    51  -1  128.6957 # GBM GBM LEU
+angleparam    50    52    53  -1  120.3833 # GBM GBM LEU
+angleparam    52    54    56  -1  109.6439 # GBM GBM GBB
+angleparam    54    52    53  -1  125.4654 # GBM GBM LEU
+angleparam    52    54    55  -1  104.5237 # GBM GBM THR
+angleparam    54    56    57  -1   86.5310 # GBM GBB GBM
+angleparam    56    54    55  -1  106.4014 # GBB GBM THR
+angleparam    56    57    59  -1  109.2980 # GBB GBM GBM
+angleparam    56    57    58  -1  119.6678 # GBB GBM ILE
+angleparam    57    59    61  -1   90.9387 # GBM GBM GBM
+angleparam    59    57    58  -1  130.7419 # GBM GBM ILE
+angleparam    57    59    60  -1  154.0201 # GBM GBM GLU
+angleparam    59    61    63  -1   88.1921 # GBM GBM GBM
+angleparam    61    59    60  -1  114.8990 # GBM GBM GLU
+angleparam    59    61    62  -1  132.7143 # GBM GBM THR
+angleparam    61    63    68  -1   90.5556 # GBM GBM GBM
+angleparam    63    61    62  -1  118.7302 # GBM GBM THR
+angleparam    61    63    64  -1  115.5847 # GBM GBM TY1
+angleparam    63    68    71  -1   89.1922 # GBM GBM GBM
+angleparam    68    63    64  -1  130.9526 # GBM GBM TY1
+angleparam    63    68    69  -1  147.3719 # GBM GBM AR1
+angleparam    68    71    73  -1   88.0538 # GBM GBM GBM
+angleparam    71    68    69  -1  106.1535 # GBM GBM AR1
+angleparam    68    71    72  -1  109.5632 # GBM GBM ASP
+angleparam    71    73    75  -1   90.4987 # GBM GBM GBM
+angleparam    73    71    72  -1  138.9836 # GBM GBM ASP
+angleparam    71    73    74  -1  116.0344 # GBM GBM SER
+angleparam    73    75    80  -1   89.2743 # GBM GBM GBM
+angleparam    75    73    74  -1  132.2435 # GBM GBM SER
+angleparam    73    75    76  -1  147.2423 # GBM GBM TY1
+angleparam    75    80    82  -1   90.9803 # GBM GBM GBM
+angleparam    80    75    76  -1   93.4080 # GBM GBM TY1
+angleparam    75    80    81  -1  126.1746 # GBM GBM ILE
+angleparam    80    82    85  -1   93.2330 # GBM GBM ABB
+angleparam    82    80    81  -1  119.0979 # GBM GBM ILE
+angleparam    80    82    83  -1  147.2688 # GBM GBM AR1
+angleparam    82    85    86  -1   90.7876 # GBM ABB GBM
+angleparam    85    82    83  -1   99.0741 # ABB GBM AR1
+angleparam    85    86    89  -1   91.1218 # ABB GBM GBM
+angleparam    85    86    87  -1  146.6286 # ABB GBM AR1
+angleparam    86    89    91  -1   91.9388 # GBM GBM ABB
+angleparam    89    86    87  -1   97.1720 # GBM GBM AR1
+angleparam    86    89    90  -1  108.4721 # GBM GBM ASP
+angleparam    89    91    92  -1   91.1534 # GBM ABB GBM
+angleparam    91    89    90  -1  138.8919 # ABB GBM ASP
+angleparam    91    92    94  -1   91.9327 # ABB GBM ABB
+angleparam    91    92    93  -1  151.6240 # ABB GBM LEU
+angleparam    92    94    95  -1   91.0044 # GBM ABB ABB
+angleparam    94    92    93  -1  101.2556 # ABB GBM LEU
+angleparam    94    95    96  -1   92.7804 # ABB ABB GBM
+angleparam    95    96    99  -1   91.5111 # ABB GBM GBM
+angleparam    95    96    97  -1  112.4905 # ABB GBM AR1
+angleparam    96    99   101  -1   90.6480 # GBM GBM GBM
+angleparam    99    96    97  -1  132.2090 # GBM GBM AR1
+angleparam    96    99   100  -1  119.6186 # GBM GBM LEU
+angleparam    99   101   103  -1   89.8836 # GBM GBM GBB
+angleparam   101    99   100  -1  133.2930 # GBM GBM LEU
+angleparam    99   101   102  -1  108.5782 # GBM GBM ASP
+angleparam   101   103   104  -1   97.7661 # GBM GBB GBM
+angleparam   103   101   102  -1  134.6448 # GBB GBM ASP
+angleparam   103   104   106  -1   85.5692 # GBB GBM GBM
+angleparam   103   104   105  -1  153.0158 # GBB GBM LEU
+angleparam   104   106   109  -1   88.1497 # GBM GBM ABB
+angleparam   106   104   105  -1  101.3750 # GBM GBM LEU
+angleparam   104   106   107  -1  145.8001 # GBM GBM AR1
+angleparam   106   109   110  -1   91.0725 # GBM ABB GBM
+angleparam   109   106   107  -1  103.7368 # ABB GBM AR1
+angleparam   109   110   112  -1   92.1856 # ABB GBM GBM
+angleparam   109   110   111  -1  131.3397 # ABB GBM VAL
+angleparam   110   112   114  -1   94.4929 # GBM GBM ABB
+angleparam   112   110   111  -1  115.3920 # GBM GBM VAL
+angleparam   110   112   113  -1   99.6385 # GBM GBM LEU
+angleparam   112   114   115  -1   92.7821 # GBM ABB GBM
+angleparam   114   112   113  -1  149.4283 # ABB GBM LEU
+angleparam   114   115   117  -1   98.0568 # ABB GBM GBM
+angleparam   114   115   116  -1   96.4684 # ABB GBM ASP
+angleparam   115   117   119  -1  115.8664 # GBM GBM GBM
+angleparam   117   115   116  -1  160.6857 # GBM GBM ASP
+angleparam   115   117   118  -1  138.3794 # GBM GBM ASN
+angleparam   117   119   121  -1   93.4866 # GBM GBM GBM
+angleparam   119   117   118  -1  105.6954 # GBM GBM ASN
+angleparam   117   119   120  -1   78.0746 # GBM GBM PRO
+angleparam   119   121   123  -1   90.5459 # GBM GBM GBM
+angleparam   121   119   120  -1  119.2502 # GBM GBM PRO
+angleparam   119   121   122  -1   82.7700 # GBM GBM GLU
+angleparam   121   123   125  -1   93.5070 # GBM GBM GBM
+angleparam   123   121   122  -1  132.4881 # GBM GBM GLU
+angleparam   121   123   124  -1  118.8074 # GBM GBM GLN
+angleparam   123   125   127  -1   87.3744 # GBM GBM ABB
+angleparam   125   123   124  -1  146.9810 # GBM GBM GLN
+angleparam   123   125   126  -1  132.5986 # GBM GBM ILE
+angleparam   125   127   128  -1   91.1739 # GBM ABB GBM
+angleparam   127   125   126  -1  128.5518 # ABB GBM ILE
+angleparam   127   128   132  -1   90.5237 # ABB GBM GBM
+angleparam   127   128   129  -1  117.0384 # ABB GBM HI1
+angleparam   128   132   134  -1   90.2740 # GBM GBM GBM
+angleparam   132   128   129  -1  129.5525 # GBM GBM HI1
+angleparam   128   132   133  -1  143.6420 # GBM GBM ILE
+angleparam   132   134   136  -1   86.9412 # GBM GBM GBM
+angleparam   134   132   133  -1  105.6290 # GBM GBM ILE
+angleparam   132   134   135  -1  115.6241 # GBM GBM ASP
+angleparam   134   136   138  -1   94.6430 # GBM GBM GBM
+angleparam   136   134   135  -1  136.0490 # GBM GBM ASP
+angleparam   134   136   137  -1  105.0699 # GBM GBM GLU
+angleparam   136   138   140  -1   89.0300 # GBM GBM GBM
+angleparam   138   136   137  -1  128.7140 # GBM GBM GLU
+angleparam   136   138   139  -1  153.6773 # GBM GBM LEU
+angleparam   138   140   143  -1   92.1681 # GBM GBM GBM
+angleparam   140   138   139  -1   97.6089 # GBM GBM LEU
+angleparam   138   140   141  -1  146.5324 # GBM GBM AR1
+angleparam   140   143   145  -1   88.2381 # GBM GBM GBM
+angleparam   143   140   141  -1  111.4970 # GBM GBM AR1
+angleparam   140   143   144  -1  154.1026 # GBM GBM LEU
+angleparam   143   145   147  -1   94.5088 # GBM GBM GBM
+angleparam   145   143   144  -1   99.2868 # GBM GBM LEU
+angleparam   143   145   146  -1  115.0765 # GBM GBM LEU
+angleparam   145   147   149  -1   91.2446 # GBM GBM GBM
+angleparam   147   145   146  -1  132.8612 # GBM GBM LEU
+angleparam   145   147   148  -1  115.1464 # GBM GBM THR
+angleparam   147   149   151  -1   91.0562 # GBM GBM GBM
+angleparam   149   147   148  -1  113.6101 # GBM GBM THR
+angleparam   147   149   150  -1  116.8591 # GBM GBM ASP
+angleparam   149   151   153  -1   90.6304 # GBM GBM GBM
+angleparam   151   149   150  -1  140.4379 # GBM GBM ASP
+angleparam   149   151   152  -1  118.6543 # GBM GBM MET
+angleparam   151   153   156  -1   93.8372 # GBM GBM GBM
+angleparam   153   151   152  -1  121.9198 # GBM GBM MET
+angleparam   151   153   154  -1  156.2781 # GBM GBM AR1
+angleparam   153   156   158  -1   89.7082 # GBM GBM ABB
+angleparam   156   153   154  -1  106.0515 # GBM GBM AR1
+angleparam   153   156   157  -1  108.6296 # GBM GBM MET
+angleparam   156   158   159  -1   87.9596 # GBM ABB GBM
+angleparam   158   156   157  -1  160.8520 # ABB GBM MET
+angleparam   158   159   161  -1   94.9403 # ABB GBM GBM
+angleparam   158   159   160  -1  121.3172 # ABB GBM GLN
+angleparam   159   161   163  -1   92.7108 # GBM GBM GBB
+angleparam   161   159   160  -1  120.5932 # GBM GBM GLN
+angleparam   159   161   162  -1  112.9841 # GBM GBM LEU
+angleparam   161   163   164  -1   90.2548 # GBM GBB GBM
+angleparam   163   161   162  -1  130.8177 # GBB GBM LEU
+angleparam   163   164   167  -1   91.2344 # GBB GBM GBM
+angleparam   163   164   165  -1  156.3581 # GBB GBM AR1
+angleparam   164   167   169  -1   90.2650 # GBM GBM GBM
+angleparam   167   164   165  -1  106.5746 # GBM GBM AR1
+angleparam   164   167   168  -1  132.4055 # GBM GBM VAL
+angleparam   167   169   171  -1   88.1073 # GBM GBM GBM
+angleparam   169   167   168  -1  112.3134 # GBM GBM VAL
+angleparam   167   169   170  -1  133.9328 # GBM GBM VAL
+angleparam   169   171   173  -1   93.5213 # GBM GBM GBM
+angleparam   171   169   170  -1  114.0151 # GBM GBM VAL
+angleparam   169   171   172  -1  127.7554 # GBM GBM GLU
+angleparam   171   173   175  -1   86.3798 # GBM GBM GBB
+angleparam   173   171   172  -1  138.6079 # GBM GBM GLU
+angleparam   171   173   174  -1  118.9558 # GBM GBM LEU
+angleparam   173   175   176  -1  135.6159 # GBM GBB GBM
+angleparam   175   173   174  -1  137.5565 # GBB GBM LEU
+angleparam   175   176   178  -1   91.6175 # GBB GBM GBM
+angleparam   175   176   177  -1   77.5560 # GBB GBM PRO
+angleparam   176   178   180  -1   84.8792 # GBM GBM GBM
+angleparam   178   176   177  -1  102.9834 # GBM GBM PRO
+angleparam   176   178   179  -1   91.4170 # GBM GBM GLU
+angleparam   178   180   183  -1   98.8118 # GBM GBM GBM
+angleparam   180   178   179  -1   93.2167 # GBM GBM GLU
+angleparam   178   180   181  -1  103.0304 # GBM GBM AR1
+angleparam   180   183   185  -1   99.1730 # GBM GBM GBM
+angleparam   183   180   181  -1  154.0820 # GBM GBM AR1
+angleparam   180   183   184  -1  143.6733 # GBM GBM MET
+angleparam   183   185   188  -1   92.9308 # GBM GBM GBM
+angleparam   185   183   184  -1  116.5568 # GBM GBM MET
+angleparam   183   185   186  -1  146.3951 # GBM GBM AR1
+angleparam   185   188   190  -1   92.2455 # GBM GBM ABB
+angleparam   188   185   186  -1   98.5170 # GBM GBM AR1
+angleparam   185   188   189  -1  116.1854 # GBM GBM GLU
+angleparam   188   190   191  -1   90.8860 # GBM ABB GBM
+angleparam   190   188   189  -1  120.6715 # ABB GBM GLU
+angleparam   190   191   193  -1   93.8869 # ABB GBM GBM
+angleparam   190   191   192  -1  120.5256 # ABB GBM LEU
+angleparam   191   193   195  -1   88.5438 # GBM GBM GBM
+angleparam   193   191   192  -1  130.8512 # GBM GBM LEU
+angleparam   191   193   194  -1  156.0662 # GBM GBM ASP
+angleparam   193   195   197  -1   94.8913 # GBM GBM GBM
+angleparam   195   193   194  -1   89.7044 # GBM GBM ASP
+angleparam   193   195   196  -1  123.8188 # GBM GBM ILE
+angleparam   195   197   199  -1   88.2367 # GBM GBM GBM
+angleparam   197   195   196  -1  131.9954 # GBM GBM ILE
+angleparam   195   197   198  -1  151.5566 # GBM GBM LEU
+angleparam   197   199   201  -1   94.7569 # GBM GBM GBM
+angleparam   199   197   198  -1   97.3784 # GBM GBM LEU
+angleparam   197   199   200  -1  111.2435 # GBM GBM GLU
+angleparam   199   201   203  -1   88.5863 # GBM GBM ABB
+angleparam   201   199   200  -1  133.6675 # GBM GBM GLU
+angleparam   199   201   202  -1  121.4814 # GBM GBM GLN
+angleparam   201   203   204  -1   88.3009 # GBM ABB GBM
+angleparam   203   201   202  -1  145.9954 # ABB GBM GLN
+angleparam   203   204   207  -1   94.5847 # ABB GBM GBM
+angleparam   203   204   205  -1  113.9467 # ABB GBM AR1
+angleparam   204   207   209  -1   91.2388 # GBM GBM GBM
+angleparam   207   204   205  -1  123.5119 # GBM GBM AR1
+angleparam   204   207   208  -1  114.3912 # GBM GBM VAL
+angleparam   207   209   211  -1   93.3849 # GBM GBM GBM
+angleparam   209   207   208  -1  113.6770 # GBM GBM VAL
+angleparam   207   209   210  -1   98.6436 # GBM GBM ASP
+angleparam   209   211   214  -1   89.3171 # GBM GBM GBM
+angleparam   211   209   210  -1  148.5757 # GBM GBM ASP
+angleparam   209   211   212  -1   95.0448 # GBM GBM AR1
+angleparam   211   214   216  -1   89.0025 # GBM GBM GBM
+angleparam   214   211   212  -1  146.9730 # GBM GBM AR1
+angleparam   211   214   215  -1  117.8223 # GBM GBM LEU
+angleparam   214   216   218  -1   93.8702 # GBM GBM GBM
+angleparam   216   214   215  -1  140.1043 # GBM GBM LEU
+angleparam   214   216   217  -1  129.3934 # GBM GBM THR
+angleparam   216   218   220  -1   90.0250 # GBM GBM GBM
+angleparam   218   216   217  -1  115.4392 # GBM GBM THR
+angleparam   216   218   219  -1   87.8258 # GBM GBM GLU
+angleparam   218   220   223  -1   92.8149 # GBM GBM GBM
+angleparam   220   218   219  -1  128.4886 # GBM GBM GLU
+angleparam   218   220   221  -1  111.8715 # GBM GBM AR1
+angleparam   220   223   225  -1   92.0965 # GBM GBM GBM
+angleparam   223   220   221  -1  131.2901 # GBM GBM AR1
+angleparam   220   223   224  -1  125.9813 # GBM GBM ILE
+angleparam   223   225   227  -1   88.6326 # GBM GBM GBM
+angleparam   225   223   224  -1  120.0901 # GBM GBM ILE
+angleparam   223   225   226  -1  112.4295 # GBM GBM GLU
+angleparam   225   227   229  -1   88.1612 # GBM GBM GBM
+angleparam   227   225   226  -1  158.0244 # GBM GBM GLU
+angleparam   225   227   228  -1  129.0466 # GBM GBM THR
+angleparam   227   229   231  -1   91.6964 # GBM GBM GBM
+angleparam   229   227   228  -1  115.8623 # GBM GBM THR
+angleparam   227   229   230  -1  146.0016 # GBM GBM SER
+angleparam   229   231   233  -1   91.7239 # GBM GBM GBM
+angleparam   231   229   230  -1  104.0875 # GBM GBM SER
+angleparam   229   231   232  -1  117.5190 # GBM GBM LEU
+angleparam   231   233   235  -1   91.6689 # GBM GBM GBM
+angleparam   233   231   232  -1  138.6020 # GBM GBM LEU
+angleparam   231   233   234  -1  115.7773 # GBM GBM SER
+angleparam   233   235   237  -1   88.6569 # GBM GBM GBM
+angleparam   235   233   234  -1  127.6447 # GBM GBM SER
+angleparam   233   235   236  -1  135.6785 # GBM GBM VAL
+angleparam   235   237   239  -1   92.6718 # GBM GBM GBM
+angleparam   237   235   236  -1  112.6077 # GBM GBM VAL
+angleparam   235   237   238  -1  121.6948 # GBM GBM LEU
+angleparam   237   239   241  -1   95.1621 # GBM GBM GBM
+angleparam   239   237   238  -1  130.0174 # GBM GBM LEU
+angleparam   237   239   240  -1  129.3152 # GBM GBM THR
+angleparam   239   241   244  -1   89.5829 # GBM GBM ABB
+angleparam   241   239   240  -1  114.1224 # GBM GBM THR
+angleparam   239   241   242  -1  120.8147 # GBM GBM AR1
+angleparam   241   244   245  -1   92.2531 # GBM ABB GBM
+angleparam   244   241   242  -1  127.8177 # ABB GBM AR1
+angleparam   244   245   247  -1   90.6218 # ABB GBM GBM
+angleparam   244   245   246  -1  125.3248 # ABB GBM GLU
+angleparam   245   247   249  -1   92.5043 # GBM GBM ABB
+angleparam   247   245   246  -1  143.5576 # GBM GBM GLU
+angleparam   245   247   248  -1  115.7621 # GBM GBM GLN
+angleparam   247   249   250  -1   87.4902 # GBM ABB GBM
+angleparam   249   247   248  -1  123.8255 # ABB GBM GLN
+angleparam   249   250   252  -1   95.1509 # ABB GBM GBM
+angleparam   249   250   251  -1  151.8590 # ABB GBM LEU
+angleparam   250   252   254  -1   90.2540 # GBM GBM GBM
+angleparam   252   250   251  -1   99.1191 # GBM GBM LEU
+angleparam   250   252   253  -1  149.5764 # GBM GBM LEU
+angleparam   252   254   256  -1   91.5029 # GBM GBM GBM
+angleparam   254   252   253  -1   92.8117 # GBM GBM LEU
+angleparam   252   254   255  -1  125.7003 # GBM GBM ILE
+angleparam   254   256   258  -1   92.9353 # GBM GBM GBM
+angleparam   256   254   255  -1  116.1832 # GBM GBM ILE
+angleparam   254   256   257  -1  112.7704 # GBM GBM GLN
+angleparam   258   256   257  -1  116.2558 # GBM GBM GLN
+angleparam   256   258   259  -1  145.1878 # GBM GBM AR1
+angleparam     5     6     7  -1  167.6409 # GBM LY1 LY2
+angleparam    41    42    43  -1  162.1816 # GBM AR1 AR2
+angleparam    45    46    47  -1  114.8992 # GBM PH1 PH2
+angleparam    45    46    49  -1  145.4278 # GBM PH1 PH4
+angle         46    47    48               # PH1 PH2 PH3
+angleparam    47    48    49  0.0  90.0000 # PH2 PH3 PH4
+angle         48    49    46               # PH3 PH4 PH1
+angleparam    63    64    65  -1  125.4476 # GBM TY1 TY2
+angleparam    63    64    67  -1  130.3696 # GBM TY1 TY4
+angle         64    65    66               # TY1 TY2 TY3
+angleparam    65    66    67  0.0  90.0000 # TY2 TY3 TY4
+angle         66    67    64               # TY3 TY4 TY1
+angleparam    68    69    70  -1  143.8174 # GBM AR1 AR2
+angleparam    75    76    77  -1  123.0899 # GBM TY1 TY2
+angleparam    75    76    79  -1  130.3403 # GBM TY1 TY4
+angle         76    77    78               # TY1 TY2 TY3
+angleparam    77    78    79  0.0  90.0000 # TY2 TY3 TY4
+angle         78    79    76               # TY3 TY4 TY1
+angleparam    82    83    84  -1  164.1875 # GBM AR1 AR2
+angleparam    86    87    88  -1  129.8607 # GBM AR1 AR2
+angleparam    96    97    98  -1  161.5921 # GBM AR1 AR2
+angleparam   106   107   108  -1  144.4383 # GBM AR1 AR2
+angleparam   128   129   130  -1  144.8144 # GBM HI1 HI2
+angleparam   128   129   131  -1  114.4895 # GBM HI1 HI3
+angleparam   140   141   142  -1  141.5089 # GBM AR1 AR2
+angleparam   153   154   155  -1  126.2008 # GBM AR1 AR2
+angleparam   164   165   166  -1   90.4942 # GBM AR1 AR2
+angleparam   180   181   182  -1  141.7469 # GBM AR1 AR2
+angleparam   185   186   187  -1  122.8741 # GBM AR1 AR2
+angleparam   204   205   206  -1  133.6786 # GBM AR1 AR2
+angleparam   211   212   213  -1  167.7141 # GBM AR1 AR2
+angleparam   220   221   222  -1  150.9842 # GBM AR1 AR2
+angleparam   241   242   243  -1  128.3010 # GBM AR1 AR2
+angleparam   258   259   260  -1  164.6141 # GBM AR1 AR2
+
+dihedralparam     46    47    48    49   50.0 1 180 0.0 # PH1-PH2-PH3-PH4
+dihedralparam     64    65    66    67   50.0 1 180 0.0 # TY1-TY2-TY3-TY4
+dihedralparam     76    77    78    79   50.0 1 180 0.0 # TY1-TY2-TY3-TY4
